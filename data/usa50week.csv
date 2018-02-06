@@ -1,0 +1,2184 @@
+"","port_of_unlading","week","count","lon","lat"
+"1","Aberdeen, Washington",1,11,-123.818611,46.975833
+"2","Aberdeen, Washington",2,10,-123.818611,46.975833
+"3","Aberdeen, Washington",4,2,-123.818611,46.975833
+"4","Aberdeen, Washington",5,4,-123.818611,46.975833
+"5","Aberdeen, Washington",6,7,-123.818611,46.975833
+"6","Aberdeen, Washington",7,4,-123.818611,46.975833
+"7","Aberdeen, Washington",8,135,-123.818611,46.975833
+"8","Aberdeen, Washington",9,12,-123.818611,46.975833
+"9","Aberdeen, Washington",10,404,-123.818611,46.975833
+"10","Aberdeen, Washington",11,41,-123.818611,46.975833
+"11","Aberdeen, Washington",12,5,-123.818611,46.975833
+"12","Aberdeen, Washington",13,4,-123.818611,46.975833
+"13","Aberdeen, Washington",15,549,-123.818611,46.975833
+"14","Aberdeen, Washington",18,5,-123.818611,46.975833
+"15","Aberdeen, Washington",20,617,-123.818611,46.975833
+"16","Aberdeen, Washington",21,5,-123.818611,46.975833
+"17","Aberdeen, Washington",22,2,-123.818611,46.975833
+"18","Aberdeen, Washington",28,358,-123.818611,46.975833
+"19","Aberdeen, Washington",29,1,-123.818611,46.975833
+"20","Aberdeen, Washington",30,3,-123.818611,46.975833
+"21","Aberdeen, Washington",31,9,-123.818611,46.975833
+"22","Aberdeen, Washington",32,373,-123.818611,46.975833
+"23","Aberdeen, Washington",35,255,-123.818611,46.975833
+"24","Aberdeen, Washington",36,8,-123.818611,46.975833
+"25","Aberdeen, Washington",39,11,-123.818611,46.975833
+"26","Aberdeen, Washington",40,2,-123.818611,46.975833
+"27","Aberdeen, Washington",41,6,-123.818611,46.975833
+"28","Aberdeen, Washington",50,1282,-123.818611,46.975833
+"29","Anchorage, Alaska",2,46,-149.895,61.23778
+"30","Anchorage, Alaska",4,1,-149.895,61.23778
+"31","Anchorage, Alaska",5,301,-149.895,61.23778
+"32","Anchorage, Alaska",6,67,-149.895,61.23778
+"33","Anchorage, Alaska",7,22,-149.895,61.23778
+"34","Anchorage, Alaska",8,828,-149.895,61.23778
+"35","Anchorage, Alaska",9,12,-149.895,61.23778
+"36","Anchorage, Alaska",10,852,-149.895,61.23778
+"37","Anchorage, Alaska",11,271,-149.895,61.23778
+"38","Anchorage, Alaska",12,277,-149.895,61.23778
+"39","Anchorage, Alaska",13,500,-149.895,61.23778
+"40","Anchorage, Alaska",14,92,-149.895,61.23778
+"41","Anchorage, Alaska",15,787,-149.895,61.23778
+"42","Anchorage, Alaska",16,53,-149.895,61.23778
+"43","Anchorage, Alaska",17,4,-149.895,61.23778
+"44","Anchorage, Alaska",18,8,-149.895,61.23778
+"45","Anchorage, Alaska",19,194,-149.895,61.23778
+"46","Anchorage, Alaska",20,27,-149.895,61.23778
+"47","Anchorage, Alaska",21,140,-149.895,61.23778
+"48","Anchorage, Alaska",22,403,-149.895,61.23778
+"49","Anchorage, Alaska",23,7,-149.895,61.23778
+"50","Anchorage, Alaska",24,3,-149.895,61.23778
+"51","Anchorage, Alaska",27,227,-149.895,61.23778
+"52","Anchorage, Alaska",28,35,-149.895,61.23778
+"53","Anchorage, Alaska",29,1683,-149.895,61.23778
+"54","Anchorage, Alaska",30,794,-149.895,61.23778
+"55","Anchorage, Alaska",31,836,-149.895,61.23778
+"56","Anchorage, Alaska",32,222,-149.895,61.23778
+"57","Anchorage, Alaska",33,1,-149.895,61.23778
+"58","Anchorage, Alaska",34,1,-149.895,61.23778
+"59","Anchorage, Alaska",35,296,-149.895,61.23778
+"60","Anchorage, Alaska",36,170,-149.895,61.23778
+"61","Anchorage, Alaska",37,319,-149.895,61.23778
+"62","Anchorage, Alaska",38,399,-149.895,61.23778
+"63","Anchorage, Alaska",39,196,-149.895,61.23778
+"64","Anchorage, Alaska",40,6,-149.895,61.23778
+"65","Anchorage, Alaska",41,133,-149.895,61.23778
+"66","Anchorage, Alaska",42,106,-149.895,61.23778
+"67","Anchorage, Alaska",43,153,-149.895,61.23778
+"68","Anchorage, Alaska",51,6,-149.895,61.23778
+"69","Baltimore, Maryland",1,16772,-76.51712,39.20899
+"70","Baltimore, Maryland",2,13014,-76.51712,39.20899
+"71","Baltimore, Maryland",3,356,-76.51712,39.20899
+"72","Baltimore, Maryland",4,21216,-76.51712,39.20899
+"73","Baltimore, Maryland",5,15666,-76.51712,39.20899
+"74","Baltimore, Maryland",6,14748,-76.51712,39.20899
+"75","Baltimore, Maryland",7,22309,-76.51712,39.20899
+"76","Baltimore, Maryland",8,18522,-76.51712,39.20899
+"77","Baltimore, Maryland",9,17252,-76.51712,39.20899
+"78","Baltimore, Maryland",10,7606,-76.51712,39.20899
+"79","Baltimore, Maryland",11,14322,-76.51712,39.20899
+"80","Baltimore, Maryland",12,15602,-76.51712,39.20899
+"81","Baltimore, Maryland",13,16230,-76.51712,39.20899
+"82","Baltimore, Maryland",14,14427,-76.51712,39.20899
+"83","Baltimore, Maryland",15,18258,-76.51712,39.20899
+"84","Baltimore, Maryland",16,11799,-76.51712,39.20899
+"85","Baltimore, Maryland",17,16694,-76.51712,39.20899
+"86","Baltimore, Maryland",18,20738,-76.51712,39.20899
+"87","Baltimore, Maryland",19,19607,-76.51712,39.20899
+"88","Baltimore, Maryland",20,14174,-76.51712,39.20899
+"89","Baltimore, Maryland",21,14863,-76.51712,39.20899
+"90","Baltimore, Maryland",22,12964,-76.51712,39.20899
+"91","Baltimore, Maryland",23,6935,-76.51712,39.20899
+"92","Baltimore, Maryland",24,43,-76.51712,39.20899
+"93","Baltimore, Maryland",25,290,-76.51712,39.20899
+"94","Baltimore, Maryland",26,190,-76.51712,39.20899
+"95","Baltimore, Maryland",27,1848,-76.51712,39.20899
+"96","Baltimore, Maryland",28,2162,-76.51712,39.20899
+"97","Baltimore, Maryland",29,21787,-76.51712,39.20899
+"98","Baltimore, Maryland",30,19068,-76.51712,39.20899
+"99","Baltimore, Maryland",31,19595,-76.51712,39.20899
+"100","Baltimore, Maryland",32,14828,-76.51712,39.20899
+"101","Baltimore, Maryland",33,3787,-76.51712,39.20899
+"102","Baltimore, Maryland",34,13323,-76.51712,39.20899
+"103","Baltimore, Maryland",35,14103,-76.51712,39.20899
+"104","Baltimore, Maryland",36,14577,-76.51712,39.20899
+"105","Baltimore, Maryland",37,344,-76.51712,39.20899
+"106","Baltimore, Maryland",38,10020,-76.51712,39.20899
+"107","Baltimore, Maryland",39,15928,-76.51712,39.20899
+"108","Baltimore, Maryland",40,2720,-76.51712,39.20899
+"109","Baltimore, Maryland",41,7547,-76.51712,39.20899
+"110","Baltimore, Maryland",42,12835,-76.51712,39.20899
+"111","Baltimore, Maryland",43,16286,-76.51712,39.20899
+"112","Baltimore, Maryland",44,3143,-76.51712,39.20899
+"113","Baltimore, Maryland",45,44,-76.51712,39.20899
+"114","Baltimore, Maryland",46,37,-76.51712,39.20899
+"115","Baltimore, Maryland",47,9,-76.51712,39.20899
+"116","Baltimore, Maryland",48,360,-76.51712,39.20899
+"117","Baltimore, Maryland",49,869,-76.51712,39.20899
+"118","Baltimore, Maryland",50,8867,-76.51712,39.20899
+"119","Baltimore, Maryland",51,4103,-76.51712,39.20899
+"120","Boston, Massachusetts",1,3618,-71.05229,42.350939
+"121","Boston, Massachusetts",2,1585,-71.05229,42.350939
+"122","Boston, Massachusetts",3,568,-71.05229,42.350939
+"123","Boston, Massachusetts",4,3618,-71.05229,42.350939
+"124","Boston, Massachusetts",5,4607,-71.05229,42.350939
+"125","Boston, Massachusetts",6,3698,-71.05229,42.350939
+"126","Boston, Massachusetts",7,3991,-71.05229,42.350939
+"127","Boston, Massachusetts",8,4635,-71.05229,42.350939
+"128","Boston, Massachusetts",9,4441,-71.05229,42.350939
+"129","Boston, Massachusetts",10,4301,-71.05229,42.350939
+"130","Boston, Massachusetts",11,1866,-71.05229,42.350939
+"131","Boston, Massachusetts",12,3902,-71.05229,42.350939
+"132","Boston, Massachusetts",13,2819,-71.05229,42.350939
+"133","Boston, Massachusetts",14,5575,-71.05229,42.350939
+"134","Boston, Massachusetts",15,3897,-71.05229,42.350939
+"135","Boston, Massachusetts",16,3682,-71.05229,42.350939
+"136","Boston, Massachusetts",17,3325,-71.05229,42.350939
+"137","Boston, Massachusetts",18,4472,-71.05229,42.350939
+"138","Boston, Massachusetts",19,3903,-71.05229,42.350939
+"139","Boston, Massachusetts",20,4410,-71.05229,42.350939
+"140","Boston, Massachusetts",21,13156,-71.05229,42.350939
+"141","Boston, Massachusetts",22,3846,-71.05229,42.350939
+"142","Boston, Massachusetts",23,697,-71.05229,42.350939
+"143","Boston, Massachusetts",24,27,-71.05229,42.350939
+"144","Boston, Massachusetts",25,11,-71.05229,42.350939
+"145","Boston, Massachusetts",26,3,-71.05229,42.350939
+"146","Boston, Massachusetts",27,83,-71.05229,42.350939
+"147","Boston, Massachusetts",28,553,-71.05229,42.350939
+"148","Boston, Massachusetts",29,4597,-71.05229,42.350939
+"149","Boston, Massachusetts",30,2514,-71.05229,42.350939
+"150","Boston, Massachusetts",31,3272,-71.05229,42.350939
+"151","Boston, Massachusetts",32,3495,-71.05229,42.350939
+"152","Boston, Massachusetts",33,1210,-71.05229,42.350939
+"153","Boston, Massachusetts",34,573,-71.05229,42.350939
+"154","Boston, Massachusetts",35,3595,-71.05229,42.350939
+"155","Boston, Massachusetts",36,2716,-71.05229,42.350939
+"156","Boston, Massachusetts",37,156,-71.05229,42.350939
+"157","Boston, Massachusetts",38,2706,-71.05229,42.350939
+"158","Boston, Massachusetts",39,2706,-71.05229,42.350939
+"159","Boston, Massachusetts",40,241,-71.05229,42.350939
+"160","Boston, Massachusetts",41,3499,-71.05229,42.350939
+"161","Boston, Massachusetts",42,3200,-71.05229,42.350939
+"162","Boston, Massachusetts",43,3574,-71.05229,42.350939
+"163","Boston, Massachusetts",44,674,-71.05229,42.350939
+"164","Boston, Massachusetts",46,2,-71.05229,42.350939
+"165","Boston, Massachusetts",48,2,-71.05229,42.350939
+"166","Boston, Massachusetts",49,405,-71.05229,42.350939
+"167","Boston, Massachusetts",50,3297,-71.05229,42.350939
+"168","Boston, Massachusetts",51,186,-71.05229,42.350939
+"169","Brunswick, Georgia",1,589,-81.49988,31.15856
+"170","Brunswick, Georgia",2,267,-81.49988,31.15856
+"171","Brunswick, Georgia",3,87,-81.49988,31.15856
+"172","Brunswick, Georgia",4,343,-81.49988,31.15856
+"173","Brunswick, Georgia",5,686,-81.49988,31.15856
+"174","Brunswick, Georgia",6,608,-81.49988,31.15856
+"175","Brunswick, Georgia",7,1801,-81.49988,31.15856
+"176","Brunswick, Georgia",8,1658,-81.49988,31.15856
+"177","Brunswick, Georgia",9,852,-81.49988,31.15856
+"178","Brunswick, Georgia",10,847,-81.49988,31.15856
+"179","Brunswick, Georgia",11,723,-81.49988,31.15856
+"180","Brunswick, Georgia",12,1272,-81.49988,31.15856
+"181","Brunswick, Georgia",13,1913,-81.49988,31.15856
+"182","Brunswick, Georgia",14,1132,-81.49988,31.15856
+"183","Brunswick, Georgia",15,975,-81.49988,31.15856
+"184","Brunswick, Georgia",16,579,-81.49988,31.15856
+"185","Brunswick, Georgia",17,859,-81.49988,31.15856
+"186","Brunswick, Georgia",18,750,-81.49988,31.15856
+"187","Brunswick, Georgia",19,445,-81.49988,31.15856
+"188","Brunswick, Georgia",20,1493,-81.49988,31.15856
+"189","Brunswick, Georgia",21,1073,-81.49988,31.15856
+"190","Brunswick, Georgia",22,1025,-81.49988,31.15856
+"191","Brunswick, Georgia",23,81,-81.49988,31.15856
+"192","Brunswick, Georgia",27,15,-81.49988,31.15856
+"193","Brunswick, Georgia",28,162,-81.49988,31.15856
+"194","Brunswick, Georgia",29,1219,-81.49988,31.15856
+"195","Brunswick, Georgia",30,1344,-81.49988,31.15856
+"196","Brunswick, Georgia",31,956,-81.49988,31.15856
+"197","Brunswick, Georgia",32,880,-81.49988,31.15856
+"198","Brunswick, Georgia",33,512,-81.49988,31.15856
+"199","Brunswick, Georgia",34,1230,-81.49988,31.15856
+"200","Brunswick, Georgia",35,69,-81.49988,31.15856
+"201","Brunswick, Georgia",36,739,-81.49988,31.15856
+"202","Brunswick, Georgia",37,476,-81.49988,31.15856
+"203","Brunswick, Georgia",38,369,-81.49988,31.15856
+"204","Brunswick, Georgia",39,897,-81.49988,31.15856
+"205","Brunswick, Georgia",40,40,-81.49988,31.15856
+"206","Brunswick, Georgia",41,839,-81.49988,31.15856
+"207","Brunswick, Georgia",42,990,-81.49988,31.15856
+"208","Brunswick, Georgia",43,1251,-81.49988,31.15856
+"209","Brunswick, Georgia",44,9,-81.49988,31.15856
+"210","Brunswick, Georgia",47,1,-81.49988,31.15856
+"211","Brunswick, Georgia",49,5,-81.49988,31.15856
+"212","Brunswick, Georgia",50,1502,-81.49988,31.15856
+"213","Carquinez Strait, California",1,2,-122.2126,38.05918
+"214","Carquinez Strait, California",2,4,-122.2126,38.05918
+"215","Carquinez Strait, California",4,4,-122.2126,38.05918
+"216","Carquinez Strait, California",5,120,-122.2126,38.05918
+"217","Carquinez Strait, California",6,312,-122.2126,38.05918
+"218","Carquinez Strait, California",7,228,-122.2126,38.05918
+"219","Carquinez Strait, California",8,2,-122.2126,38.05918
+"220","Carquinez Strait, California",9,97,-122.2126,38.05918
+"221","Carquinez Strait, California",10,728,-122.2126,38.05918
+"222","Carquinez Strait, California",11,616,-122.2126,38.05918
+"223","Carquinez Strait, California",12,627,-122.2126,38.05918
+"224","Carquinez Strait, California",13,2,-122.2126,38.05918
+"225","Carquinez Strait, California",14,323,-122.2126,38.05918
+"226","Carquinez Strait, California",15,29,-122.2126,38.05918
+"227","Carquinez Strait, California",16,369,-122.2126,38.05918
+"228","Carquinez Strait, California",17,764,-122.2126,38.05918
+"229","Carquinez Strait, California",18,3,-122.2126,38.05918
+"230","Carquinez Strait, California",19,527,-122.2126,38.05918
+"231","Carquinez Strait, California",20,276,-122.2126,38.05918
+"232","Carquinez Strait, California",21,6,-122.2126,38.05918
+"233","Carquinez Strait, California",22,10,-122.2126,38.05918
+"234","Carquinez Strait, California",23,2,-122.2126,38.05918
+"235","Carquinez Strait, California",27,2,-122.2126,38.05918
+"236","Carquinez Strait, California",28,59,-122.2126,38.05918
+"237","Carquinez Strait, California",29,290,-122.2126,38.05918
+"238","Carquinez Strait, California",30,4,-122.2126,38.05918
+"239","Carquinez Strait, California",31,9,-122.2126,38.05918
+"240","Carquinez Strait, California",32,494,-122.2126,38.05918
+"241","Carquinez Strait, California",33,435,-122.2126,38.05918
+"242","Carquinez Strait, California",34,6,-122.2126,38.05918
+"243","Carquinez Strait, California",35,50,-122.2126,38.05918
+"244","Carquinez Strait, California",36,524,-122.2126,38.05918
+"245","Carquinez Strait, California",37,5,-122.2126,38.05918
+"246","Carquinez Strait, California",38,244,-122.2126,38.05918
+"247","Carquinez Strait, California",39,737,-122.2126,38.05918
+"248","Carquinez Strait, California",40,3,-122.2126,38.05918
+"249","Carquinez Strait, California",41,456,-122.2126,38.05918
+"250","Carquinez Strait, California",42,27,-122.2126,38.05918
+"251","Carquinez Strait, California",43,6,-122.2126,38.05918
+"252","Carquinez Strait, California",44,2,-122.2126,38.05918
+"253","Carquinez Strait, California",49,4,-122.2126,38.05918
+"254","Carquinez Strait, California",50,897,-122.2126,38.05918
+"255","Charleston, South Carolina",1,40712,-79.921595,32.788781
+"256","Charleston, South Carolina",2,28269,-79.921595,32.788781
+"257","Charleston, South Carolina",3,657,-79.921595,32.788781
+"258","Charleston, South Carolina",4,48114,-79.921595,32.788781
+"259","Charleston, South Carolina",5,39537,-79.921595,32.788781
+"260","Charleston, South Carolina",6,47566,-79.921595,32.788781
+"261","Charleston, South Carolina",7,30174,-79.921595,32.788781
+"262","Charleston, South Carolina",8,49231,-79.921595,32.788781
+"263","Charleston, South Carolina",9,67996,-79.921595,32.788781
+"264","Charleston, South Carolina",10,41406,-79.921595,32.788781
+"265","Charleston, South Carolina",11,43890,-79.921595,32.788781
+"266","Charleston, South Carolina",12,45200,-79.921595,32.788781
+"267","Charleston, South Carolina",13,61937,-79.921595,32.788781
+"268","Charleston, South Carolina",14,37562,-79.921595,32.788781
+"269","Charleston, South Carolina",15,69841,-79.921595,32.788781
+"270","Charleston, South Carolina",16,46889,-79.921595,32.788781
+"271","Charleston, South Carolina",17,56816,-79.921595,32.788781
+"272","Charleston, South Carolina",18,48605,-79.921595,32.788781
+"273","Charleston, South Carolina",19,41257,-79.921595,32.788781
+"274","Charleston, South Carolina",20,32305,-79.921595,32.788781
+"275","Charleston, South Carolina",21,62858,-79.921595,32.788781
+"276","Charleston, South Carolina",22,44325,-79.921595,32.788781
+"277","Charleston, South Carolina",23,5821,-79.921595,32.788781
+"278","Charleston, South Carolina",24,97,-79.921595,32.788781
+"279","Charleston, South Carolina",25,1034,-79.921595,32.788781
+"280","Charleston, South Carolina",26,776,-79.921595,32.788781
+"281","Charleston, South Carolina",27,1078,-79.921595,32.788781
+"282","Charleston, South Carolina",28,17819,-79.921595,32.788781
+"283","Charleston, South Carolina",29,57959,-79.921595,32.788781
+"284","Charleston, South Carolina",30,36271,-79.921595,32.788781
+"285","Charleston, South Carolina",31,44522,-79.921595,32.788781
+"286","Charleston, South Carolina",32,43681,-79.921595,32.788781
+"287","Charleston, South Carolina",33,9638,-79.921595,32.788781
+"288","Charleston, South Carolina",34,27686,-79.921595,32.788781
+"289","Charleston, South Carolina",35,38844,-79.921595,32.788781
+"290","Charleston, South Carolina",36,59484,-79.921595,32.788781
+"291","Charleston, South Carolina",37,6048,-79.921595,32.788781
+"292","Charleston, South Carolina",38,38505,-79.921595,32.788781
+"293","Charleston, South Carolina",39,39236,-79.921595,32.788781
+"294","Charleston, South Carolina",40,9460,-79.921595,32.788781
+"295","Charleston, South Carolina",41,44271,-79.921595,32.788781
+"296","Charleston, South Carolina",42,45160,-79.921595,32.788781
+"297","Charleston, South Carolina",43,27208,-79.921595,32.788781
+"298","Charleston, South Carolina",44,1676,-79.921595,32.788781
+"299","Charleston, South Carolina",45,80,-79.921595,32.788781
+"300","Charleston, South Carolina",46,80,-79.921595,32.788781
+"301","Charleston, South Carolina",47,313,-79.921595,32.788781
+"302","Charleston, South Carolina",48,578,-79.921595,32.788781
+"303","Charleston, South Carolina",49,1766,-79.921595,32.788781
+"304","Charleston, South Carolina",50,36379,-79.921595,32.788781
+"305","Charleston, South Carolina",51,1805,-79.921595,32.788781
+"306","Chester, Pennsylvania",1,2326,-75.3222,39.85423
+"307","Chester, Pennsylvania",2,1476,-75.3222,39.85423
+"308","Chester, Pennsylvania",3,1,-75.3222,39.85423
+"309","Chester, Pennsylvania",4,1427,-75.3222,39.85423
+"310","Chester, Pennsylvania",5,2360,-75.3222,39.85423
+"311","Chester, Pennsylvania",6,1575,-75.3222,39.85423
+"312","Chester, Pennsylvania",7,2073,-75.3222,39.85423
+"313","Chester, Pennsylvania",8,1795,-75.3222,39.85423
+"314","Chester, Pennsylvania",9,2908,-75.3222,39.85423
+"315","Chester, Pennsylvania",10,1917,-75.3222,39.85423
+"316","Chester, Pennsylvania",11,2531,-75.3222,39.85423
+"317","Chester, Pennsylvania",12,2053,-75.3222,39.85423
+"318","Chester, Pennsylvania",13,2183,-75.3222,39.85423
+"319","Chester, Pennsylvania",14,2336,-75.3222,39.85423
+"320","Chester, Pennsylvania",15,2174,-75.3222,39.85423
+"321","Chester, Pennsylvania",16,2077,-75.3222,39.85423
+"322","Chester, Pennsylvania",17,2225,-75.3222,39.85423
+"323","Chester, Pennsylvania",18,2510,-75.3222,39.85423
+"324","Chester, Pennsylvania",19,1763,-75.3222,39.85423
+"325","Chester, Pennsylvania",20,1611,-75.3222,39.85423
+"326","Chester, Pennsylvania",21,1814,-75.3222,39.85423
+"327","Chester, Pennsylvania",22,2102,-75.3222,39.85423
+"328","Chester, Pennsylvania",23,273,-75.3222,39.85423
+"329","Chester, Pennsylvania",25,1,-75.3222,39.85423
+"330","Chester, Pennsylvania",26,1,-75.3222,39.85423
+"331","Chester, Pennsylvania",27,2,-75.3222,39.85423
+"332","Chester, Pennsylvania",28,20,-75.3222,39.85423
+"333","Chester, Pennsylvania",29,1788,-75.3222,39.85423
+"334","Chester, Pennsylvania",30,2195,-75.3222,39.85423
+"335","Chester, Pennsylvania",31,2252,-75.3222,39.85423
+"336","Chester, Pennsylvania",32,1560,-75.3222,39.85423
+"337","Chester, Pennsylvania",33,552,-75.3222,39.85423
+"338","Chester, Pennsylvania",34,53,-75.3222,39.85423
+"339","Chester, Pennsylvania",35,1669,-75.3222,39.85423
+"340","Chester, Pennsylvania",36,1638,-75.3222,39.85423
+"341","Chester, Pennsylvania",37,4,-75.3222,39.85423
+"342","Chester, Pennsylvania",38,1496,-75.3222,39.85423
+"343","Chester, Pennsylvania",39,1765,-75.3222,39.85423
+"344","Chester, Pennsylvania",40,1,-75.3222,39.85423
+"345","Chester, Pennsylvania",41,1815,-75.3222,39.85423
+"346","Chester, Pennsylvania",42,1846,-75.3222,39.85423
+"347","Chester, Pennsylvania",43,1720,-75.3222,39.85423
+"348","Chester, Pennsylvania",49,8,-75.3222,39.85423
+"349","Chester, Pennsylvania",50,1774,-75.3222,39.85423
+"350","Chicago, Illinois",1,52,-87.63799,41.88662
+"351","Chicago, Illinois",2,26,-87.63799,41.88662
+"352","Chicago, Illinois",4,22,-87.63799,41.88662
+"353","Chicago, Illinois",5,52,-87.63799,41.88662
+"354","Chicago, Illinois",6,58,-87.63799,41.88662
+"355","Chicago, Illinois",7,13,-87.63799,41.88662
+"356","Chicago, Illinois",8,54,-87.63799,41.88662
+"357","Chicago, Illinois",9,32,-87.63799,41.88662
+"358","Chicago, Illinois",10,35,-87.63799,41.88662
+"359","Chicago, Illinois",11,29,-87.63799,41.88662
+"360","Chicago, Illinois",12,12,-87.63799,41.88662
+"361","Chicago, Illinois",13,41,-87.63799,41.88662
+"362","Chicago, Illinois",14,28,-87.63799,41.88662
+"363","Chicago, Illinois",15,221,-87.63799,41.88662
+"364","Chicago, Illinois",16,80,-87.63799,41.88662
+"365","Chicago, Illinois",17,57,-87.63799,41.88662
+"366","Chicago, Illinois",18,107,-87.63799,41.88662
+"367","Chicago, Illinois",19,150,-87.63799,41.88662
+"368","Chicago, Illinois",20,86,-87.63799,41.88662
+"369","Chicago, Illinois",21,335,-87.63799,41.88662
+"370","Chicago, Illinois",22,167,-87.63799,41.88662
+"371","Chicago, Illinois",23,28,-87.63799,41.88662
+"372","Chicago, Illinois",28,34,-87.63799,41.88662
+"373","Chicago, Illinois",29,109,-87.63799,41.88662
+"374","Chicago, Illinois",30,160,-87.63799,41.88662
+"375","Chicago, Illinois",31,119,-87.63799,41.88662
+"376","Chicago, Illinois",32,120,-87.63799,41.88662
+"377","Chicago, Illinois",33,18,-87.63799,41.88662
+"378","Chicago, Illinois",34,94,-87.63799,41.88662
+"379","Chicago, Illinois",35,72,-87.63799,41.88662
+"380","Chicago, Illinois",36,311,-87.63799,41.88662
+"381","Chicago, Illinois",37,16,-87.63799,41.88662
+"382","Chicago, Illinois",38,89,-87.63799,41.88662
+"383","Chicago, Illinois",39,115,-87.63799,41.88662
+"384","Chicago, Illinois",40,16,-87.63799,41.88662
+"385","Chicago, Illinois",41,50,-87.63799,41.88662
+"386","Chicago, Illinois",42,250,-87.63799,41.88662
+"387","Chicago, Illinois",43,136,-87.63799,41.88662
+"388","Chicago, Illinois",44,117,-87.63799,41.88662
+"389","Chicago, Illinois",49,1,-87.63799,41.88662
+"390","Chicago, Illinois",50,127,-87.63799,41.88662
+"391","Chicago, Illinois",51,6,-87.63799,41.88662
+"392","Cleveland, Ohio",1,7,-81.669722,41.482222
+"393","Cleveland, Ohio",4,2,-81.669722,41.482222
+"394","Cleveland, Ohio",5,4,-81.669722,41.482222
+"395","Cleveland, Ohio",6,4,-81.669722,41.482222
+"396","Cleveland, Ohio",7,3,-81.669722,41.482222
+"397","Cleveland, Ohio",8,1,-81.669722,41.482222
+"398","Cleveland, Ohio",9,1,-81.669722,41.482222
+"399","Cleveland, Ohio",12,2,-81.669722,41.482222
+"400","Cleveland, Ohio",14,78,-81.669722,41.482222
+"401","Cleveland, Ohio",15,10,-81.669722,41.482222
+"402","Cleveland, Ohio",16,59,-81.669722,41.482222
+"403","Cleveland, Ohio",17,83,-81.669722,41.482222
+"404","Cleveland, Ohio",18,102,-81.669722,41.482222
+"405","Cleveland, Ohio",19,36,-81.669722,41.482222
+"406","Cleveland, Ohio",20,91,-81.669722,41.482222
+"407","Cleveland, Ohio",21,215,-81.669722,41.482222
+"408","Cleveland, Ohio",22,92,-81.669722,41.482222
+"409","Cleveland, Ohio",23,10,-81.669722,41.482222
+"410","Cleveland, Ohio",28,2,-81.669722,41.482222
+"411","Cleveland, Ohio",29,148,-81.669722,41.482222
+"412","Cleveland, Ohio",30,119,-81.669722,41.482222
+"413","Cleveland, Ohio",31,52,-81.669722,41.482222
+"414","Cleveland, Ohio",32,179,-81.669722,41.482222
+"415","Cleveland, Ohio",34,4,-81.669722,41.482222
+"416","Cleveland, Ohio",35,351,-81.669722,41.482222
+"417","Cleveland, Ohio",36,99,-81.669722,41.482222
+"418","Cleveland, Ohio",37,106,-81.669722,41.482222
+"419","Cleveland, Ohio",38,18,-81.669722,41.482222
+"420","Cleveland, Ohio",39,1,-81.669722,41.482222
+"421","Cleveland, Ohio",40,121,-81.669722,41.482222
+"422","Cleveland, Ohio",41,20,-81.669722,41.482222
+"423","Cleveland, Ohio",42,136,-81.669722,41.482222
+"424","Cleveland, Ohio",43,78,-81.669722,41.482222
+"425","Cleveland, Ohio",49,30,-81.669722,41.482222
+"426","Cleveland, Ohio",50,91,-81.669722,41.482222
+"427","Detroit, Michigan",1,60,-83.045833,42.331389
+"428","Detroit, Michigan",2,4,-83.045833,42.331389
+"429","Detroit, Michigan",3,6,-83.045833,42.331389
+"430","Detroit, Michigan",4,2,-83.045833,42.331389
+"431","Detroit, Michigan",5,4,-83.045833,42.331389
+"432","Detroit, Michigan",6,29,-83.045833,42.331389
+"433","Detroit, Michigan",7,5,-83.045833,42.331389
+"434","Detroit, Michigan",8,11,-83.045833,42.331389
+"435","Detroit, Michigan",9,25,-83.045833,42.331389
+"436","Detroit, Michigan",10,11,-83.045833,42.331389
+"437","Detroit, Michigan",11,22,-83.045833,42.331389
+"438","Detroit, Michigan",12,23,-83.045833,42.331389
+"439","Detroit, Michigan",13,42,-83.045833,42.331389
+"440","Detroit, Michigan",14,32,-83.045833,42.331389
+"441","Detroit, Michigan",15,18,-83.045833,42.331389
+"442","Detroit, Michigan",16,76,-83.045833,42.331389
+"443","Detroit, Michigan",17,14,-83.045833,42.331389
+"444","Detroit, Michigan",18,57,-83.045833,42.331389
+"445","Detroit, Michigan",19,44,-83.045833,42.331389
+"446","Detroit, Michigan",20,99,-83.045833,42.331389
+"447","Detroit, Michigan",21,38,-83.045833,42.331389
+"448","Detroit, Michigan",22,23,-83.045833,42.331389
+"449","Detroit, Michigan",28,6,-83.045833,42.331389
+"450","Detroit, Michigan",29,59,-83.045833,42.331389
+"451","Detroit, Michigan",30,66,-83.045833,42.331389
+"452","Detroit, Michigan",31,17,-83.045833,42.331389
+"453","Detroit, Michigan",32,46,-83.045833,42.331389
+"454","Detroit, Michigan",33,4,-83.045833,42.331389
+"455","Detroit, Michigan",34,2,-83.045833,42.331389
+"456","Detroit, Michigan",35,17,-83.045833,42.331389
+"457","Detroit, Michigan",36,65,-83.045833,42.331389
+"458","Detroit, Michigan",37,4,-83.045833,42.331389
+"459","Detroit, Michigan",38,59,-83.045833,42.331389
+"460","Detroit, Michigan",39,4,-83.045833,42.331389
+"461","Detroit, Michigan",40,1,-83.045833,42.331389
+"462","Detroit, Michigan",41,32,-83.045833,42.331389
+"463","Detroit, Michigan",42,72,-83.045833,42.331389
+"464","Detroit, Michigan",43,110,-83.045833,42.331389
+"465","Detroit, Michigan",44,7,-83.045833,42.331389
+"466","Detroit, Michigan",50,58,-83.045833,42.331389
+"467","Everett, Washington",1,61,-122.2294,47.98476
+"468","Everett, Washington",2,970,-122.2294,47.98476
+"469","Everett, Washington",3,4,-122.2294,47.98476
+"470","Everett, Washington",4,392,-122.2294,47.98476
+"471","Everett, Washington",5,528,-122.2294,47.98476
+"472","Everett, Washington",6,653,-122.2294,47.98476
+"473","Everett, Washington",7,1,-122.2294,47.98476
+"474","Everett, Washington",8,1086,-122.2294,47.98476
+"475","Everett, Washington",9,613,-122.2294,47.98476
+"476","Everett, Washington",10,550,-122.2294,47.98476
+"477","Everett, Washington",11,652,-122.2294,47.98476
+"478","Everett, Washington",12,665,-122.2294,47.98476
+"479","Everett, Washington",13,610,-122.2294,47.98476
+"480","Everett, Washington",14,594,-122.2294,47.98476
+"481","Everett, Washington",15,662,-122.2294,47.98476
+"482","Everett, Washington",16,615,-122.2294,47.98476
+"483","Everett, Washington",17,756,-122.2294,47.98476
+"484","Everett, Washington",18,552,-122.2294,47.98476
+"485","Everett, Washington",19,543,-122.2294,47.98476
+"486","Everett, Washington",20,616,-122.2294,47.98476
+"487","Everett, Washington",21,295,-122.2294,47.98476
+"488","Everett, Washington",22,452,-122.2294,47.98476
+"489","Everett, Washington",28,1,-122.2294,47.98476
+"490","Everett, Washington",29,411,-122.2294,47.98476
+"491","Everett, Washington",30,509,-122.2294,47.98476
+"492","Everett, Washington",31,365,-122.2294,47.98476
+"493","Everett, Washington",32,537,-122.2294,47.98476
+"494","Everett, Washington",33,85,-122.2294,47.98476
+"495","Everett, Washington",34,21,-122.2294,47.98476
+"496","Everett, Washington",35,468,-122.2294,47.98476
+"497","Everett, Washington",36,338,-122.2294,47.98476
+"498","Everett, Washington",38,519,-122.2294,47.98476
+"499","Everett, Washington",39,745,-122.2294,47.98476
+"500","Everett, Washington",40,263,-122.2294,47.98476
+"501","Everett, Washington",41,580,-122.2294,47.98476
+"502","Everett, Washington",42,710,-122.2294,47.98476
+"503","Everett, Washington",43,463,-122.2294,47.98476
+"504","Everett, Washington",48,4,-122.2294,47.98476
+"505","Everett, Washington",50,499,-122.2294,47.98476
+"506","Fernandina Beach, Florida",1,111,-81.461667,30.669444
+"507","Fernandina Beach, Florida",4,90,-81.461667,30.669444
+"508","Fernandina Beach, Florida",5,108,-81.461667,30.669444
+"509","Fernandina Beach, Florida",7,126,-81.461667,30.669444
+"510","Fernandina Beach, Florida",8,181,-81.461667,30.669444
+"511","Fernandina Beach, Florida",10,172,-81.461667,30.669444
+"512","Fernandina Beach, Florida",12,115,-81.461667,30.669444
+"513","Fernandina Beach, Florida",13,159,-81.461667,30.669444
+"514","Fernandina Beach, Florida",14,160,-81.461667,30.669444
+"515","Fernandina Beach, Florida",16,163,-81.461667,30.669444
+"516","Fernandina Beach, Florida",17,164,-81.461667,30.669444
+"517","Fernandina Beach, Florida",19,168,-81.461667,30.669444
+"518","Fernandina Beach, Florida",20,74,-81.461667,30.669444
+"519","Fernandina Beach, Florida",21,183,-81.461667,30.669444
+"520","Fernandina Beach, Florida",29,126,-81.461667,30.669444
+"521","Fernandina Beach, Florida",31,153,-81.461667,30.669444
+"522","Fernandina Beach, Florida",32,79,-81.461667,30.669444
+"523","Fernandina Beach, Florida",35,131,-81.461667,30.669444
+"524","Fernandina Beach, Florida",38,100,-81.461667,30.669444
+"525","Fernandina Beach, Florida",40,119,-81.461667,30.669444
+"526","Fernandina Beach, Florida",41,96,-81.461667,30.669444
+"527","Fernandina Beach, Florida",43,70,-81.461667,30.669444
+"528","Fernandina Beach, Florida",49,141,-81.461667,30.669444
+"529","Freeport, Texas",1,274,-95.3707,28.96133
+"530","Freeport, Texas",2,503,-95.3707,28.96133
+"531","Freeport, Texas",3,29,-95.3707,28.96133
+"532","Freeport, Texas",4,213,-95.3707,28.96133
+"533","Freeport, Texas",5,557,-95.3707,28.96133
+"534","Freeport, Texas",6,685,-95.3707,28.96133
+"535","Freeport, Texas",7,673,-95.3707,28.96133
+"536","Freeport, Texas",8,660,-95.3707,28.96133
+"537","Freeport, Texas",9,654,-95.3707,28.96133
+"538","Freeport, Texas",10,514,-95.3707,28.96133
+"539","Freeport, Texas",11,757,-95.3707,28.96133
+"540","Freeport, Texas",12,806,-95.3707,28.96133
+"541","Freeport, Texas",13,752,-95.3707,28.96133
+"542","Freeport, Texas",14,584,-95.3707,28.96133
+"543","Freeport, Texas",15,584,-95.3707,28.96133
+"544","Freeport, Texas",16,457,-95.3707,28.96133
+"545","Freeport, Texas",17,673,-95.3707,28.96133
+"546","Freeport, Texas",18,512,-95.3707,28.96133
+"547","Freeport, Texas",19,587,-95.3707,28.96133
+"548","Freeport, Texas",20,511,-95.3707,28.96133
+"549","Freeport, Texas",21,519,-95.3707,28.96133
+"550","Freeport, Texas",22,408,-95.3707,28.96133
+"551","Freeport, Texas",23,245,-95.3707,28.96133
+"552","Freeport, Texas",27,1,-95.3707,28.96133
+"553","Freeport, Texas",28,236,-95.3707,28.96133
+"554","Freeport, Texas",29,463,-95.3707,28.96133
+"555","Freeport, Texas",30,370,-95.3707,28.96133
+"556","Freeport, Texas",31,547,-95.3707,28.96133
+"557","Freeport, Texas",32,653,-95.3707,28.96133
+"558","Freeport, Texas",33,263,-95.3707,28.96133
+"559","Freeport, Texas",34,9,-95.3707,28.96133
+"560","Freeport, Texas",35,278,-95.3707,28.96133
+"561","Freeport, Texas",36,480,-95.3707,28.96133
+"562","Freeport, Texas",37,117,-95.3707,28.96133
+"563","Freeport, Texas",38,222,-95.3707,28.96133
+"564","Freeport, Texas",39,551,-95.3707,28.96133
+"565","Freeport, Texas",40,83,-95.3707,28.96133
+"566","Freeport, Texas",41,461,-95.3707,28.96133
+"567","Freeport, Texas",42,539,-95.3707,28.96133
+"568","Freeport, Texas",43,450,-95.3707,28.96133
+"569","Freeport, Texas",49,130,-95.3707,28.96133
+"570","Freeport, Texas",50,378,-95.3707,28.96133
+"571","Freeport, Texas",51,157,-95.3707,28.96133
+"572","Galveston, Texas",1,553,-94.8127,29.31049
+"573","Galveston, Texas",2,566,-94.8127,29.31049
+"574","Galveston, Texas",3,1,-94.8127,29.31049
+"575","Galveston, Texas",4,316,-94.8127,29.31049
+"576","Galveston, Texas",5,289,-94.8127,29.31049
+"577","Galveston, Texas",6,1302,-94.8127,29.31049
+"578","Galveston, Texas",7,784,-94.8127,29.31049
+"579","Galveston, Texas",8,747,-94.8127,29.31049
+"580","Galveston, Texas",9,404,-94.8127,29.31049
+"581","Galveston, Texas",10,1209,-94.8127,29.31049
+"582","Galveston, Texas",11,381,-94.8127,29.31049
+"583","Galveston, Texas",12,1406,-94.8127,29.31049
+"584","Galveston, Texas",13,913,-94.8127,29.31049
+"585","Galveston, Texas",14,1171,-94.8127,29.31049
+"586","Galveston, Texas",15,624,-94.8127,29.31049
+"587","Galveston, Texas",16,925,-94.8127,29.31049
+"588","Galveston, Texas",17,752,-94.8127,29.31049
+"589","Galveston, Texas",18,713,-94.8127,29.31049
+"590","Galveston, Texas",19,651,-94.8127,29.31049
+"591","Galveston, Texas",20,1152,-94.8127,29.31049
+"592","Galveston, Texas",21,963,-94.8127,29.31049
+"593","Galveston, Texas",22,516,-94.8127,29.31049
+"594","Galveston, Texas",23,193,-94.8127,29.31049
+"595","Galveston, Texas",27,12,-94.8127,29.31049
+"596","Galveston, Texas",28,69,-94.8127,29.31049
+"597","Galveston, Texas",29,979,-94.8127,29.31049
+"598","Galveston, Texas",30,1320,-94.8127,29.31049
+"599","Galveston, Texas",31,699,-94.8127,29.31049
+"600","Galveston, Texas",32,1162,-94.8127,29.31049
+"601","Galveston, Texas",33,336,-94.8127,29.31049
+"602","Galveston, Texas",34,473,-94.8127,29.31049
+"603","Galveston, Texas",35,407,-94.8127,29.31049
+"604","Galveston, Texas",36,561,-94.8127,29.31049
+"605","Galveston, Texas",37,175,-94.8127,29.31049
+"606","Galveston, Texas",38,582,-94.8127,29.31049
+"607","Galveston, Texas",39,308,-94.8127,29.31049
+"608","Galveston, Texas",40,82,-94.8127,29.31049
+"609","Galveston, Texas",41,752,-94.8127,29.31049
+"610","Galveston, Texas",42,962,-94.8127,29.31049
+"611","Galveston, Texas",43,983,-94.8127,29.31049
+"612","Galveston, Texas",44,85,-94.8127,29.31049
+"613","Galveston, Texas",47,1,-94.8127,29.31049
+"614","Galveston, Texas",48,2,-94.8127,29.31049
+"615","Galveston, Texas",49,44,-94.8127,29.31049
+"616","Galveston, Texas",50,574,-94.8127,29.31049
+"617","Galveston, Texas",51,34,-94.8127,29.31049
+"618","Gramercy, Louisiana",1,13,-90.689167,30.053889
+"619","Gramercy, Louisiana",2,10,-90.689167,30.053889
+"620","Gramercy, Louisiana",3,1,-90.689167,30.053889
+"621","Gramercy, Louisiana",4,43,-90.689167,30.053889
+"622","Gramercy, Louisiana",5,72,-90.689167,30.053889
+"623","Gramercy, Louisiana",6,13,-90.689167,30.053889
+"624","Gramercy, Louisiana",7,24,-90.689167,30.053889
+"625","Gramercy, Louisiana",8,78,-90.689167,30.053889
+"626","Gramercy, Louisiana",9,38,-90.689167,30.053889
+"627","Gramercy, Louisiana",10,20,-90.689167,30.053889
+"628","Gramercy, Louisiana",11,86,-90.689167,30.053889
+"629","Gramercy, Louisiana",12,10,-90.689167,30.053889
+"630","Gramercy, Louisiana",13,32,-90.689167,30.053889
+"631","Gramercy, Louisiana",14,24,-90.689167,30.053889
+"632","Gramercy, Louisiana",15,27,-90.689167,30.053889
+"633","Gramercy, Louisiana",16,13,-90.689167,30.053889
+"634","Gramercy, Louisiana",17,14,-90.689167,30.053889
+"635","Gramercy, Louisiana",18,90,-90.689167,30.053889
+"636","Gramercy, Louisiana",19,13,-90.689167,30.053889
+"637","Gramercy, Louisiana",20,20,-90.689167,30.053889
+"638","Gramercy, Louisiana",21,9,-90.689167,30.053889
+"639","Gramercy, Louisiana",22,8,-90.689167,30.053889
+"640","Gramercy, Louisiana",23,2,-90.689167,30.053889
+"641","Gramercy, Louisiana",28,8,-90.689167,30.053889
+"642","Gramercy, Louisiana",29,87,-90.689167,30.053889
+"643","Gramercy, Louisiana",30,27,-90.689167,30.053889
+"644","Gramercy, Louisiana",31,33,-90.689167,30.053889
+"645","Gramercy, Louisiana",32,49,-90.689167,30.053889
+"646","Gramercy, Louisiana",33,4,-90.689167,30.053889
+"647","Gramercy, Louisiana",34,1,-90.689167,30.053889
+"648","Gramercy, Louisiana",35,24,-90.689167,30.053889
+"649","Gramercy, Louisiana",36,8,-90.689167,30.053889
+"650","Gramercy, Louisiana",38,74,-90.689167,30.053889
+"651","Gramercy, Louisiana",39,28,-90.689167,30.053889
+"652","Gramercy, Louisiana",40,1,-90.689167,30.053889
+"653","Gramercy, Louisiana",41,56,-90.689167,30.053889
+"654","Gramercy, Louisiana",42,23,-90.689167,30.053889
+"655","Gramercy, Louisiana",43,68,-90.689167,30.053889
+"656","Gramercy, Louisiana",44,14,-90.689167,30.053889
+"657","Gramercy, Louisiana",50,12,-90.689167,30.053889
+"658","Gulfport, Mississippi",1,950,-89.08533,30.35216
+"659","Gulfport, Mississippi",2,1123,-89.08533,30.35216
+"660","Gulfport, Mississippi",3,1,-89.08533,30.35216
+"661","Gulfport, Mississippi",4,375,-89.08533,30.35216
+"662","Gulfport, Mississippi",5,551,-89.08533,30.35216
+"663","Gulfport, Mississippi",6,1244,-89.08533,30.35216
+"664","Gulfport, Mississippi",7,1179,-89.08533,30.35216
+"665","Gulfport, Mississippi",8,1260,-89.08533,30.35216
+"666","Gulfport, Mississippi",9,1289,-89.08533,30.35216
+"667","Gulfport, Mississippi",10,1141,-89.08533,30.35216
+"668","Gulfport, Mississippi",11,1977,-89.08533,30.35216
+"669","Gulfport, Mississippi",12,1178,-89.08533,30.35216
+"670","Gulfport, Mississippi",13,1296,-89.08533,30.35216
+"671","Gulfport, Mississippi",14,1170,-89.08533,30.35216
+"672","Gulfport, Mississippi",15,1303,-89.08533,30.35216
+"673","Gulfport, Mississippi",16,1092,-89.08533,30.35216
+"674","Gulfport, Mississippi",17,1190,-89.08533,30.35216
+"675","Gulfport, Mississippi",18,1227,-89.08533,30.35216
+"676","Gulfport, Mississippi",19,1264,-89.08533,30.35216
+"677","Gulfport, Mississippi",20,1354,-89.08533,30.35216
+"678","Gulfport, Mississippi",21,749,-89.08533,30.35216
+"679","Gulfport, Mississippi",22,2062,-89.08533,30.35216
+"680","Gulfport, Mississippi",23,939,-89.08533,30.35216
+"681","Gulfport, Mississippi",28,336,-89.08533,30.35216
+"682","Gulfport, Mississippi",29,1337,-89.08533,30.35216
+"683","Gulfport, Mississippi",30,1352,-89.08533,30.35216
+"684","Gulfport, Mississippi",31,1302,-89.08533,30.35216
+"685","Gulfport, Mississippi",32,1732,-89.08533,30.35216
+"686","Gulfport, Mississippi",33,655,-89.08533,30.35216
+"687","Gulfport, Mississippi",34,232,-89.08533,30.35216
+"688","Gulfport, Mississippi",35,1801,-89.08533,30.35216
+"689","Gulfport, Mississippi",36,1312,-89.08533,30.35216
+"690","Gulfport, Mississippi",37,4,-89.08533,30.35216
+"691","Gulfport, Mississippi",38,410,-89.08533,30.35216
+"692","Gulfport, Mississippi",39,1228,-89.08533,30.35216
+"693","Gulfport, Mississippi",40,699,-89.08533,30.35216
+"694","Gulfport, Mississippi",41,1247,-89.08533,30.35216
+"695","Gulfport, Mississippi",42,1318,-89.08533,30.35216
+"696","Gulfport, Mississippi",43,1355,-89.08533,30.35216
+"697","Gulfport, Mississippi",46,1,-89.08533,30.35216
+"698","Gulfport, Mississippi",47,1,-89.08533,30.35216
+"699","Gulfport, Mississippi",50,1519,-89.08533,30.35216
+"700","Gulfport, Mississippi",51,322,-89.08533,30.35216
+"701","Honolulu, Hawaii",1,768,-157.8717,21.31111
+"702","Honolulu, Hawaii",2,1497,-157.8717,21.31111
+"703","Honolulu, Hawaii",3,5,-157.8717,21.31111
+"704","Honolulu, Hawaii",4,165,-157.8717,21.31111
+"705","Honolulu, Hawaii",5,649,-157.8717,21.31111
+"706","Honolulu, Hawaii",6,243,-157.8717,21.31111
+"707","Honolulu, Hawaii",7,991,-157.8717,21.31111
+"708","Honolulu, Hawaii",8,2001,-157.8717,21.31111
+"709","Honolulu, Hawaii",9,514,-157.8717,21.31111
+"710","Honolulu, Hawaii",10,76,-157.8717,21.31111
+"711","Honolulu, Hawaii",11,667,-157.8717,21.31111
+"712","Honolulu, Hawaii",12,155,-157.8717,21.31111
+"713","Honolulu, Hawaii",13,638,-157.8717,21.31111
+"714","Honolulu, Hawaii",14,2249,-157.8717,21.31111
+"715","Honolulu, Hawaii",15,954,-157.8717,21.31111
+"716","Honolulu, Hawaii",16,225,-157.8717,21.31111
+"717","Honolulu, Hawaii",17,953,-157.8717,21.31111
+"718","Honolulu, Hawaii",18,569,-157.8717,21.31111
+"719","Honolulu, Hawaii",19,925,-157.8717,21.31111
+"720","Honolulu, Hawaii",20,1671,-157.8717,21.31111
+"721","Honolulu, Hawaii",21,830,-157.8717,21.31111
+"722","Honolulu, Hawaii",22,281,-157.8717,21.31111
+"723","Honolulu, Hawaii",23,186,-157.8717,21.31111
+"724","Honolulu, Hawaii",26,1,-157.8717,21.31111
+"725","Honolulu, Hawaii",27,4,-157.8717,21.31111
+"726","Honolulu, Hawaii",28,4,-157.8717,21.31111
+"727","Honolulu, Hawaii",29,667,-157.8717,21.31111
+"728","Honolulu, Hawaii",30,205,-157.8717,21.31111
+"729","Honolulu, Hawaii",31,860,-157.8717,21.31111
+"730","Honolulu, Hawaii",32,1977,-157.8717,21.31111
+"731","Honolulu, Hawaii",33,101,-157.8717,21.31111
+"732","Honolulu, Hawaii",34,226,-157.8717,21.31111
+"733","Honolulu, Hawaii",35,659,-157.8717,21.31111
+"734","Honolulu, Hawaii",36,663,-157.8717,21.31111
+"735","Honolulu, Hawaii",37,2,-157.8717,21.31111
+"736","Honolulu, Hawaii",38,1785,-157.8717,21.31111
+"737","Honolulu, Hawaii",39,636,-157.8717,21.31111
+"738","Honolulu, Hawaii",40,5,-157.8717,21.31111
+"739","Honolulu, Hawaii",41,770,-157.8717,21.31111
+"740","Honolulu, Hawaii",42,839,-157.8717,21.31111
+"741","Honolulu, Hawaii",43,693,-157.8717,21.31111
+"742","Honolulu, Hawaii",47,1,-157.8717,21.31111
+"743","Honolulu, Hawaii",49,4,-157.8717,21.31111
+"744","Honolulu, Hawaii",50,1814,-157.8717,21.31111
+"745","Honolulu, Hawaii",51,2,-157.8717,21.31111
+"746","Houston, Texas",1,51058,-95.293679,29.747023
+"747","Houston, Texas",2,20280,-95.293679,29.747023
+"748","Houston, Texas",3,2198,-95.293679,29.747023
+"749","Houston, Texas",4,29786,-95.293679,29.747023
+"750","Houston, Texas",5,30266,-95.293679,29.747023
+"751","Houston, Texas",6,35461,-95.293679,29.747023
+"752","Houston, Texas",7,46689,-95.293679,29.747023
+"753","Houston, Texas",8,51459,-95.293679,29.747023
+"754","Houston, Texas",9,46291,-95.293679,29.747023
+"755","Houston, Texas",10,39054,-95.293679,29.747023
+"756","Houston, Texas",11,40441,-95.293679,29.747023
+"757","Houston, Texas",12,50907,-95.293679,29.747023
+"758","Houston, Texas",13,42731,-95.293679,29.747023
+"759","Houston, Texas",14,43017,-95.293679,29.747023
+"760","Houston, Texas",15,50871,-95.293679,29.747023
+"761","Houston, Texas",16,32865,-95.293679,29.747023
+"762","Houston, Texas",17,55976,-95.293679,29.747023
+"763","Houston, Texas",18,41168,-95.293679,29.747023
+"764","Houston, Texas",19,47337,-95.293679,29.747023
+"765","Houston, Texas",20,51259,-95.293679,29.747023
+"766","Houston, Texas",21,44506,-95.293679,29.747023
+"767","Houston, Texas",22,43667,-95.293679,29.747023
+"768","Houston, Texas",23,7028,-95.293679,29.747023
+"769","Houston, Texas",24,370,-95.293679,29.747023
+"770","Houston, Texas",25,536,-95.293679,29.747023
+"771","Houston, Texas",26,3734,-95.293679,29.747023
+"772","Houston, Texas",27,2915,-95.293679,29.747023
+"773","Houston, Texas",28,21158,-95.293679,29.747023
+"774","Houston, Texas",29,49413,-95.293679,29.747023
+"775","Houston, Texas",30,45101,-95.293679,29.747023
+"776","Houston, Texas",31,53296,-95.293679,29.747023
+"777","Houston, Texas",32,49769,-95.293679,29.747023
+"778","Houston, Texas",33,13683,-95.293679,29.747023
+"779","Houston, Texas",34,6032,-95.293679,29.747023
+"780","Houston, Texas",35,20012,-95.293679,29.747023
+"781","Houston, Texas",36,66979,-95.293679,29.747023
+"782","Houston, Texas",37,5443,-95.293679,29.747023
+"783","Houston, Texas",38,26879,-95.293679,29.747023
+"784","Houston, Texas",39,55013,-95.293679,29.747023
+"785","Houston, Texas",40,8127,-95.293679,29.747023
+"786","Houston, Texas",41,47749,-95.293679,29.747023
+"787","Houston, Texas",42,46911,-95.293679,29.747023
+"788","Houston, Texas",43,47326,-95.293679,29.747023
+"789","Houston, Texas",44,45,-95.293679,29.747023
+"790","Houston, Texas",45,80,-95.293679,29.747023
+"791","Houston, Texas",46,164,-95.293679,29.747023
+"792","Houston, Texas",47,103,-95.293679,29.747023
+"793","Houston, Texas",48,451,-95.293679,29.747023
+"794","Houston, Texas",49,3615,-95.293679,29.747023
+"795","Houston, Texas",50,33674,-95.293679,29.747023
+"796","Houston, Texas",51,1040,-95.293679,29.747023
+"797","Jacksonville, Florida",1,3771,-81.665125,30.322757
+"798","Jacksonville, Florida",2,3018,-81.665125,30.322757
+"799","Jacksonville, Florida",3,47,-81.665125,30.322757
+"800","Jacksonville, Florida",4,3622,-81.665125,30.322757
+"801","Jacksonville, Florida",5,5754,-81.665125,30.322757
+"802","Jacksonville, Florida",6,4639,-81.665125,30.322757
+"803","Jacksonville, Florida",7,5367,-81.665125,30.322757
+"804","Jacksonville, Florida",8,4278,-81.665125,30.322757
+"805","Jacksonville, Florida",9,4563,-81.665125,30.322757
+"806","Jacksonville, Florida",10,4417,-81.665125,30.322757
+"807","Jacksonville, Florida",11,1941,-81.665125,30.322757
+"808","Jacksonville, Florida",12,4507,-81.665125,30.322757
+"809","Jacksonville, Florida",13,3211,-81.665125,30.322757
+"810","Jacksonville, Florida",14,4968,-81.665125,30.322757
+"811","Jacksonville, Florida",15,4356,-81.665125,30.322757
+"812","Jacksonville, Florida",16,4192,-81.665125,30.322757
+"813","Jacksonville, Florida",17,5324,-81.665125,30.322757
+"814","Jacksonville, Florida",18,5857,-81.665125,30.322757
+"815","Jacksonville, Florida",19,2401,-81.665125,30.322757
+"816","Jacksonville, Florida",20,5387,-81.665125,30.322757
+"817","Jacksonville, Florida",21,6754,-81.665125,30.322757
+"818","Jacksonville, Florida",22,3628,-81.665125,30.322757
+"819","Jacksonville, Florida",23,338,-81.665125,30.322757
+"820","Jacksonville, Florida",24,13,-81.665125,30.322757
+"821","Jacksonville, Florida",25,9,-81.665125,30.322757
+"822","Jacksonville, Florida",26,36,-81.665125,30.322757
+"823","Jacksonville, Florida",27,29,-81.665125,30.322757
+"824","Jacksonville, Florida",28,1305,-81.665125,30.322757
+"825","Jacksonville, Florida",29,6358,-81.665125,30.322757
+"826","Jacksonville, Florida",30,4884,-81.665125,30.322757
+"827","Jacksonville, Florida",31,4751,-81.665125,30.322757
+"828","Jacksonville, Florida",32,6163,-81.665125,30.322757
+"829","Jacksonville, Florida",33,522,-81.665125,30.322757
+"830","Jacksonville, Florida",34,3796,-81.665125,30.322757
+"831","Jacksonville, Florida",35,5848,-81.665125,30.322757
+"832","Jacksonville, Florida",36,4079,-81.665125,30.322757
+"833","Jacksonville, Florida",37,35,-81.665125,30.322757
+"834","Jacksonville, Florida",38,6723,-81.665125,30.322757
+"835","Jacksonville, Florida",39,6007,-81.665125,30.322757
+"836","Jacksonville, Florida",40,42,-81.665125,30.322757
+"837","Jacksonville, Florida",41,4448,-81.665125,30.322757
+"838","Jacksonville, Florida",42,6555,-81.665125,30.322757
+"839","Jacksonville, Florida",43,5013,-81.665125,30.322757
+"840","Jacksonville, Florida",44,333,-81.665125,30.322757
+"841","Jacksonville, Florida",46,91,-81.665125,30.322757
+"842","Jacksonville, Florida",48,5,-81.665125,30.322757
+"843","Jacksonville, Florida",49,86,-81.665125,30.322757
+"844","Jacksonville, Florida",50,5705,-81.665125,30.322757
+"845","Jacksonville, Florida",51,283,-81.665125,30.322757
+"846","Kodiak, Alaska",15,284,-152.394167,57.793056
+"847","Kodiak, Alaska",21,1,-152.394167,57.793056
+"848","Kodiak, Alaska",27,1460,-152.394167,57.793056
+"849","Kodiak, Alaska",28,1635,-152.394167,57.793056
+"850","Kodiak, Alaska",29,1654,-152.394167,57.793056
+"851","Kodiak, Alaska",38,328,-152.394167,57.793056
+"852","Long Beach, California",1,78521,-118.2095,33.73957
+"853","Long Beach, California",2,66386,-118.2095,33.73957
+"854","Long Beach, California",3,8986,-118.2095,33.73957
+"855","Long Beach, California",4,95762,-118.2095,33.73957
+"856","Long Beach, California",5,76547,-118.2095,33.73957
+"857","Long Beach, California",6,111554,-118.2095,33.73957
+"858","Long Beach, California",7,89773,-118.2095,33.73957
+"859","Long Beach, California",8,64320,-118.2095,33.73957
+"860","Long Beach, California",9,56171,-118.2095,33.73957
+"861","Long Beach, California",10,57978,-118.2095,33.73957
+"862","Long Beach, California",11,96661,-118.2095,33.73957
+"863","Long Beach, California",12,81097,-118.2095,33.73957
+"864","Long Beach, California",13,81151,-118.2095,33.73957
+"865","Long Beach, California",14,95935,-118.2095,33.73957
+"866","Long Beach, California",15,103772,-118.2095,33.73957
+"867","Long Beach, California",16,95623,-118.2095,33.73957
+"868","Long Beach, California",17,97175,-118.2095,33.73957
+"869","Long Beach, California",18,108684,-118.2095,33.73957
+"870","Long Beach, California",19,105271,-118.2095,33.73957
+"871","Long Beach, California",20,104762,-118.2095,33.73957
+"872","Long Beach, California",21,92911,-118.2095,33.73957
+"873","Long Beach, California",22,99048,-118.2095,33.73957
+"874","Long Beach, California",23,30204,-118.2095,33.73957
+"875","Long Beach, California",24,1288,-118.2095,33.73957
+"876","Long Beach, California",25,3044,-118.2095,33.73957
+"877","Long Beach, California",26,4183,-118.2095,33.73957
+"878","Long Beach, California",27,8634,-118.2095,33.73957
+"879","Long Beach, California",28,17402,-118.2095,33.73957
+"880","Long Beach, California",29,118163,-118.2095,33.73957
+"881","Long Beach, California",30,114943,-118.2095,33.73957
+"882","Long Beach, California",31,113492,-118.2095,33.73957
+"883","Long Beach, California",32,108341,-118.2095,33.73957
+"884","Long Beach, California",33,28618,-118.2095,33.73957
+"885","Long Beach, California",34,42382,-118.2095,33.73957
+"886","Long Beach, California",35,120009,-118.2095,33.73957
+"887","Long Beach, California",36,112689,-118.2095,33.73957
+"888","Long Beach, California",37,9754,-118.2095,33.73957
+"889","Long Beach, California",38,72646,-118.2095,33.73957
+"890","Long Beach, California",39,114394,-118.2095,33.73957
+"891","Long Beach, California",40,19052,-118.2095,33.73957
+"892","Long Beach, California",41,113779,-118.2095,33.73957
+"893","Long Beach, California",42,117044,-118.2095,33.73957
+"894","Long Beach, California",43,58862,-118.2095,33.73957
+"895","Long Beach, California",44,83,-118.2095,33.73957
+"896","Long Beach, California",45,312,-118.2095,33.73957
+"897","Long Beach, California",46,535,-118.2095,33.73957
+"898","Long Beach, California",47,1639,-118.2095,33.73957
+"899","Long Beach, California",48,2029,-118.2095,33.73957
+"900","Long Beach, California",49,3829,-118.2095,33.73957
+"901","Long Beach, California",50,86081,-118.2095,33.73957
+"902","Long Beach, California",51,77,-118.2095,33.73957
+"903","Los Angeles, California",1,122894,-118.241,33.77728
+"904","Los Angeles, California",2,91869,-118.241,33.77728
+"905","Los Angeles, California",3,9170,-118.241,33.77728
+"906","Los Angeles, California",4,105963,-118.241,33.77728
+"907","Los Angeles, California",5,121067,-118.241,33.77728
+"908","Los Angeles, California",6,146161,-118.241,33.77728
+"909","Los Angeles, California",7,119212,-118.241,33.77728
+"910","Los Angeles, California",8,55246,-118.241,33.77728
+"911","Los Angeles, California",9,80000,-118.241,33.77728
+"912","Los Angeles, California",10,98547,-118.241,33.77728
+"913","Los Angeles, California",11,95169,-118.241,33.77728
+"914","Los Angeles, California",12,111055,-118.241,33.77728
+"915","Los Angeles, California",13,112294,-118.241,33.77728
+"916","Los Angeles, California",14,128989,-118.241,33.77728
+"917","Los Angeles, California",15,124359,-118.241,33.77728
+"918","Los Angeles, California",16,106599,-118.241,33.77728
+"919","Los Angeles, California",17,103884,-118.241,33.77728
+"920","Los Angeles, California",18,119038,-118.241,33.77728
+"921","Los Angeles, California",19,144398,-118.241,33.77728
+"922","Los Angeles, California",20,122826,-118.241,33.77728
+"923","Los Angeles, California",21,93323,-118.241,33.77728
+"924","Los Angeles, California",22,91981,-118.241,33.77728
+"925","Los Angeles, California",23,19433,-118.241,33.77728
+"926","Los Angeles, California",24,895,-118.241,33.77728
+"927","Los Angeles, California",25,2039,-118.241,33.77728
+"928","Los Angeles, California",26,3333,-118.241,33.77728
+"929","Los Angeles, California",27,5824,-118.241,33.77728
+"930","Los Angeles, California",28,35913,-118.241,33.77728
+"931","Los Angeles, California",29,148805,-118.241,33.77728
+"932","Los Angeles, California",30,112588,-118.241,33.77728
+"933","Los Angeles, California",31,118636,-118.241,33.77728
+"934","Los Angeles, California",32,115141,-118.241,33.77728
+"935","Los Angeles, California",33,47114,-118.241,33.77728
+"936","Los Angeles, California",34,52844,-118.241,33.77728
+"937","Los Angeles, California",35,136877,-118.241,33.77728
+"938","Los Angeles, California",36,86885,-118.241,33.77728
+"939","Los Angeles, California",37,12921,-118.241,33.77728
+"940","Los Angeles, California",38,104084,-118.241,33.77728
+"941","Los Angeles, California",39,101378,-118.241,33.77728
+"942","Los Angeles, California",40,23541,-118.241,33.77728
+"943","Los Angeles, California",41,101645,-118.241,33.77728
+"944","Los Angeles, California",42,123999,-118.241,33.77728
+"945","Los Angeles, California",43,95082,-118.241,33.77728
+"946","Los Angeles, California",44,300,-118.241,33.77728
+"947","Los Angeles, California",45,1141,-118.241,33.77728
+"948","Los Angeles, California",46,613,-118.241,33.77728
+"949","Los Angeles, California",47,1222,-118.241,33.77728
+"950","Los Angeles, California",48,2178,-118.241,33.77728
+"951","Los Angeles, California",49,9847,-118.241,33.77728
+"952","Los Angeles, California",50,118016,-118.241,33.77728
+"953","Los Angeles, California",51,400,-118.241,33.77728
+"954","Miami, Florida",1,10990,-80.181642,25.782862
+"955","Miami, Florida",2,8882,-80.181642,25.782862
+"956","Miami, Florida",3,317,-80.181642,25.782862
+"957","Miami, Florida",4,9013,-80.181642,25.782862
+"958","Miami, Florida",5,7225,-80.181642,25.782862
+"959","Miami, Florida",6,12494,-80.181642,25.782862
+"960","Miami, Florida",7,9921,-80.181642,25.782862
+"961","Miami, Florida",8,12960,-80.181642,25.782862
+"962","Miami, Florida",9,11173,-80.181642,25.782862
+"963","Miami, Florida",10,8746,-80.181642,25.782862
+"964","Miami, Florida",11,9852,-80.181642,25.782862
+"965","Miami, Florida",12,8968,-80.181642,25.782862
+"966","Miami, Florida",13,6857,-80.181642,25.782862
+"967","Miami, Florida",14,11560,-80.181642,25.782862
+"968","Miami, Florida",15,10381,-80.181642,25.782862
+"969","Miami, Florida",16,12845,-80.181642,25.782862
+"970","Miami, Florida",17,11173,-80.181642,25.782862
+"971","Miami, Florida",18,11398,-80.181642,25.782862
+"972","Miami, Florida",19,9896,-80.181642,25.782862
+"973","Miami, Florida",20,10964,-80.181642,25.782862
+"974","Miami, Florida",21,10243,-80.181642,25.782862
+"975","Miami, Florida",22,10334,-80.181642,25.782862
+"976","Miami, Florida",23,1443,-80.181642,25.782862
+"977","Miami, Florida",24,83,-80.181642,25.782862
+"978","Miami, Florida",25,51,-80.181642,25.782862
+"979","Miami, Florida",26,54,-80.181642,25.782862
+"980","Miami, Florida",27,364,-80.181642,25.782862
+"981","Miami, Florida",28,2393,-80.181642,25.782862
+"982","Miami, Florida",29,10807,-80.181642,25.782862
+"983","Miami, Florida",30,15371,-80.181642,25.782862
+"984","Miami, Florida",31,12148,-80.181642,25.782862
+"985","Miami, Florida",32,13099,-80.181642,25.782862
+"986","Miami, Florida",33,6698,-80.181642,25.782862
+"987","Miami, Florida",34,7181,-80.181642,25.782862
+"988","Miami, Florida",35,29728,-80.181642,25.782862
+"989","Miami, Florida",36,7830,-80.181642,25.782862
+"990","Miami, Florida",37,1137,-80.181642,25.782862
+"991","Miami, Florida",38,15971,-80.181642,25.782862
+"992","Miami, Florida",39,13961,-80.181642,25.782862
+"993","Miami, Florida",40,6244,-80.181642,25.782862
+"994","Miami, Florida",41,14781,-80.181642,25.782862
+"995","Miami, Florida",42,16135,-80.181642,25.782862
+"996","Miami, Florida",43,20092,-80.181642,25.782862
+"997","Miami, Florida",44,3063,-80.181642,25.782862
+"998","Miami, Florida",45,2,-80.181642,25.782862
+"999","Miami, Florida",46,3,-80.181642,25.782862
+"1000","Miami, Florida",47,40,-80.181642,25.782862
+"1001","Miami, Florida",48,26,-80.181642,25.782862
+"1002","Miami, Florida",49,439,-80.181642,25.782862
+"1003","Miami, Florida",50,15413,-80.181642,25.782862
+"1004","Miami, Florida",51,678,-80.181642,25.782862
+"1005","Mobile, Alabama",1,2734,-88.04113,30.72527
+"1006","Mobile, Alabama",2,4285,-88.04113,30.72527
+"1007","Mobile, Alabama",3,38,-88.04113,30.72527
+"1008","Mobile, Alabama",4,1716,-88.04113,30.72527
+"1009","Mobile, Alabama",5,3091,-88.04113,30.72527
+"1010","Mobile, Alabama",6,2635,-88.04113,30.72527
+"1011","Mobile, Alabama",7,2699,-88.04113,30.72527
+"1012","Mobile, Alabama",8,2122,-88.04113,30.72527
+"1013","Mobile, Alabama",9,3692,-88.04113,30.72527
+"1014","Mobile, Alabama",10,4069,-88.04113,30.72527
+"1015","Mobile, Alabama",11,2201,-88.04113,30.72527
+"1016","Mobile, Alabama",12,2127,-88.04113,30.72527
+"1017","Mobile, Alabama",13,2399,-88.04113,30.72527
+"1018","Mobile, Alabama",14,3358,-88.04113,30.72527
+"1019","Mobile, Alabama",15,3696,-88.04113,30.72527
+"1020","Mobile, Alabama",16,1886,-88.04113,30.72527
+"1021","Mobile, Alabama",17,2970,-88.04113,30.72527
+"1022","Mobile, Alabama",18,4055,-88.04113,30.72527
+"1023","Mobile, Alabama",19,2933,-88.04113,30.72527
+"1024","Mobile, Alabama",20,2325,-88.04113,30.72527
+"1025","Mobile, Alabama",21,4114,-88.04113,30.72527
+"1026","Mobile, Alabama",22,2863,-88.04113,30.72527
+"1027","Mobile, Alabama",23,252,-88.04113,30.72527
+"1028","Mobile, Alabama",25,1832,-88.04113,30.72527
+"1029","Mobile, Alabama",26,6,-88.04113,30.72527
+"1030","Mobile, Alabama",27,109,-88.04113,30.72527
+"1031","Mobile, Alabama",28,1287,-88.04113,30.72527
+"1032","Mobile, Alabama",29,2823,-88.04113,30.72527
+"1033","Mobile, Alabama",30,3622,-88.04113,30.72527
+"1034","Mobile, Alabama",31,2546,-88.04113,30.72527
+"1035","Mobile, Alabama",32,3030,-88.04113,30.72527
+"1036","Mobile, Alabama",33,545,-88.04113,30.72527
+"1037","Mobile, Alabama",34,2329,-88.04113,30.72527
+"1038","Mobile, Alabama",35,3447,-88.04113,30.72527
+"1039","Mobile, Alabama",36,2475,-88.04113,30.72527
+"1040","Mobile, Alabama",37,490,-88.04113,30.72527
+"1041","Mobile, Alabama",38,2286,-88.04113,30.72527
+"1042","Mobile, Alabama",39,2322,-88.04113,30.72527
+"1043","Mobile, Alabama",40,1336,-88.04113,30.72527
+"1044","Mobile, Alabama",41,4001,-88.04113,30.72527
+"1045","Mobile, Alabama",42,2807,-88.04113,30.72527
+"1046","Mobile, Alabama",43,3603,-88.04113,30.72527
+"1047","Mobile, Alabama",44,506,-88.04113,30.72527
+"1048","Mobile, Alabama",48,11,-88.04113,30.72527
+"1049","Mobile, Alabama",49,39,-88.04113,30.72527
+"1050","Mobile, Alabama",50,2840,-88.04113,30.72527
+"1051","Morgan City, Louisiana",1,74,-91.197222,29.700833
+"1052","Morgan City, Louisiana",2,169,-91.197222,29.700833
+"1053","Morgan City, Louisiana",3,21,-91.197222,29.700833
+"1054","Morgan City, Louisiana",4,418,-91.197222,29.700833
+"1055","Morgan City, Louisiana",5,144,-91.197222,29.700833
+"1056","Morgan City, Louisiana",6,91,-91.197222,29.700833
+"1057","Morgan City, Louisiana",7,89,-91.197222,29.700833
+"1058","Morgan City, Louisiana",8,93,-91.197222,29.700833
+"1059","Morgan City, Louisiana",9,237,-91.197222,29.700833
+"1060","Morgan City, Louisiana",10,50,-91.197222,29.700833
+"1061","Morgan City, Louisiana",11,78,-91.197222,29.700833
+"1062","Morgan City, Louisiana",12,54,-91.197222,29.700833
+"1063","Morgan City, Louisiana",13,79,-91.197222,29.700833
+"1064","Morgan City, Louisiana",14,58,-91.197222,29.700833
+"1065","Morgan City, Louisiana",15,56,-91.197222,29.700833
+"1066","Morgan City, Louisiana",16,921,-91.197222,29.700833
+"1067","Morgan City, Louisiana",17,97,-91.197222,29.700833
+"1068","Morgan City, Louisiana",18,224,-91.197222,29.700833
+"1069","Morgan City, Louisiana",19,183,-91.197222,29.700833
+"1070","Morgan City, Louisiana",20,63,-91.197222,29.700833
+"1071","Morgan City, Louisiana",21,133,-91.197222,29.700833
+"1072","Morgan City, Louisiana",22,132,-91.197222,29.700833
+"1073","Morgan City, Louisiana",23,5,-91.197222,29.700833
+"1074","Morgan City, Louisiana",28,61,-91.197222,29.700833
+"1075","Morgan City, Louisiana",29,58,-91.197222,29.700833
+"1076","Morgan City, Louisiana",30,38,-91.197222,29.700833
+"1077","Morgan City, Louisiana",31,76,-91.197222,29.700833
+"1078","Morgan City, Louisiana",32,78,-91.197222,29.700833
+"1079","Morgan City, Louisiana",33,45,-91.197222,29.700833
+"1080","Morgan City, Louisiana",34,33,-91.197222,29.700833
+"1081","Morgan City, Louisiana",35,38,-91.197222,29.700833
+"1082","Morgan City, Louisiana",36,163,-91.197222,29.700833
+"1083","Morgan City, Louisiana",37,19,-91.197222,29.700833
+"1084","Morgan City, Louisiana",38,60,-91.197222,29.700833
+"1085","Morgan City, Louisiana",39,85,-91.197222,29.700833
+"1086","Morgan City, Louisiana",40,7,-91.197222,29.700833
+"1087","Morgan City, Louisiana",41,91,-91.197222,29.700833
+"1088","Morgan City, Louisiana",42,354,-91.197222,29.700833
+"1089","Morgan City, Louisiana",43,207,-91.197222,29.700833
+"1090","Morgan City, Louisiana",44,9,-91.197222,29.700833
+"1091","Morgan City, Louisiana",49,3,-91.197222,29.700833
+"1092","Morgan City, Louisiana",50,98,-91.197222,29.700833
+"1093","Morgan City, Louisiana",51,14,-91.197222,29.700833
+"1094","New London, Connecticut",2,243,-72.099444,41.355556
+"1095","New London, Connecticut",8,120,-72.099444,41.355556
+"1096","New London, Connecticut",12,1,-72.099444,41.355556
+"1097","New London, Connecticut",13,498,-72.099444,41.355556
+"1098","New London, Connecticut",14,2,-72.099444,41.355556
+"1099","New London, Connecticut",15,13,-72.099444,41.355556
+"1100","New London, Connecticut",16,555,-72.099444,41.355556
+"1101","New London, Connecticut",19,2,-72.099444,41.355556
+"1102","New London, Connecticut",20,321,-72.099444,41.355556
+"1103","New London, Connecticut",29,330,-72.099444,41.355556
+"1104","New London, Connecticut",30,1,-72.099444,41.355556
+"1105","New London, Connecticut",39,1,-72.099444,41.355556
+"1106","New London, Connecticut",41,185,-72.099444,41.355556
+"1107","New London, Connecticut",50,221,-72.099444,41.355556
+"1108","New Orleans, Louisiana",1,5397,-90.085256,29.91414
+"1109","New Orleans, Louisiana",2,4024,-90.085256,29.91414
+"1110","New Orleans, Louisiana",3,37,-90.085256,29.91414
+"1111","New Orleans, Louisiana",4,2553,-90.085256,29.91414
+"1112","New Orleans, Louisiana",5,6409,-90.085256,29.91414
+"1113","New Orleans, Louisiana",6,4930,-90.085256,29.91414
+"1114","New Orleans, Louisiana",7,5745,-90.085256,29.91414
+"1115","New Orleans, Louisiana",8,2421,-90.085256,29.91414
+"1116","New Orleans, Louisiana",9,9953,-90.085256,29.91414
+"1117","New Orleans, Louisiana",10,4892,-90.085256,29.91414
+"1118","New Orleans, Louisiana",11,5461,-90.085256,29.91414
+"1119","New Orleans, Louisiana",12,4942,-90.085256,29.91414
+"1120","New Orleans, Louisiana",13,5116,-90.085256,29.91414
+"1121","New Orleans, Louisiana",14,5030,-90.085256,29.91414
+"1122","New Orleans, Louisiana",15,5228,-90.085256,29.91414
+"1123","New Orleans, Louisiana",16,6809,-90.085256,29.91414
+"1124","New Orleans, Louisiana",17,5260,-90.085256,29.91414
+"1125","New Orleans, Louisiana",18,5413,-90.085256,29.91414
+"1126","New Orleans, Louisiana",19,4793,-90.085256,29.91414
+"1127","New Orleans, Louisiana",20,4714,-90.085256,29.91414
+"1128","New Orleans, Louisiana",21,2254,-90.085256,29.91414
+"1129","New Orleans, Louisiana",22,3126,-90.085256,29.91414
+"1130","New Orleans, Louisiana",23,5204,-90.085256,29.91414
+"1131","New Orleans, Louisiana",24,14,-90.085256,29.91414
+"1132","New Orleans, Louisiana",26,12,-90.085256,29.91414
+"1133","New Orleans, Louisiana",27,294,-90.085256,29.91414
+"1134","New Orleans, Louisiana",28,3921,-90.085256,29.91414
+"1135","New Orleans, Louisiana",29,3540,-90.085256,29.91414
+"1136","New Orleans, Louisiana",30,7617,-90.085256,29.91414
+"1137","New Orleans, Louisiana",31,6378,-90.085256,29.91414
+"1138","New Orleans, Louisiana",32,5493,-90.085256,29.91414
+"1139","New Orleans, Louisiana",33,2508,-90.085256,29.91414
+"1140","New Orleans, Louisiana",34,2666,-90.085256,29.91414
+"1141","New Orleans, Louisiana",35,12997,-90.085256,29.91414
+"1142","New Orleans, Louisiana",36,7368,-90.085256,29.91414
+"1143","New Orleans, Louisiana",37,266,-90.085256,29.91414
+"1144","New Orleans, Louisiana",38,1180,-90.085256,29.91414
+"1145","New Orleans, Louisiana",39,3487,-90.085256,29.91414
+"1146","New Orleans, Louisiana",40,1210,-90.085256,29.91414
+"1147","New Orleans, Louisiana",41,4412,-90.085256,29.91414
+"1148","New Orleans, Louisiana",42,7652,-90.085256,29.91414
+"1149","New Orleans, Louisiana",43,7928,-90.085256,29.91414
+"1150","New Orleans, Louisiana",44,512,-90.085256,29.91414
+"1151","New Orleans, Louisiana",46,25,-90.085256,29.91414
+"1152","New Orleans, Louisiana",47,24,-90.085256,29.91414
+"1153","New Orleans, Louisiana",48,104,-90.085256,29.91414
+"1154","New Orleans, Louisiana",49,29,-90.085256,29.91414
+"1155","New Orleans, Louisiana",50,5852,-90.085256,29.91414
+"1156","New Orleans, Louisiana",51,592,-90.085256,29.91414
+"1157","New York, New York",1,9425,-74.038357,40.673949
+"1158","New York, New York",2,7404,-74.038357,40.673949
+"1159","New York, New York",3,477,-74.038357,40.673949
+"1160","New York, New York",4,7602,-74.038357,40.673949
+"1161","New York, New York",5,5981,-74.038357,40.673949
+"1162","New York, New York",6,7446,-74.038357,40.673949
+"1163","New York, New York",7,8614,-74.038357,40.673949
+"1164","New York, New York",8,6568,-74.038357,40.673949
+"1165","New York, New York",9,12905,-74.038357,40.673949
+"1166","New York, New York",10,7783,-74.038357,40.673949
+"1167","New York, New York",11,11448,-74.038357,40.673949
+"1168","New York, New York",12,9614,-74.038357,40.673949
+"1169","New York, New York",13,6326,-74.038357,40.673949
+"1170","New York, New York",14,10850,-74.038357,40.673949
+"1171","New York, New York",15,10997,-74.038357,40.673949
+"1172","New York, New York",16,9727,-74.038357,40.673949
+"1173","New York, New York",17,13543,-74.038357,40.673949
+"1174","New York, New York",18,8732,-74.038357,40.673949
+"1175","New York, New York",19,10945,-74.038357,40.673949
+"1176","New York, New York",20,5994,-74.038357,40.673949
+"1177","New York, New York",21,9706,-74.038357,40.673949
+"1178","New York, New York",22,8287,-74.038357,40.673949
+"1179","New York, New York",23,3645,-74.038357,40.673949
+"1180","New York, New York",24,82,-74.038357,40.673949
+"1181","New York, New York",25,188,-74.038357,40.673949
+"1182","New York, New York",26,209,-74.038357,40.673949
+"1183","New York, New York",27,611,-74.038357,40.673949
+"1184","New York, New York",28,859,-74.038357,40.673949
+"1185","New York, New York",29,10066,-74.038357,40.673949
+"1186","New York, New York",30,9460,-74.038357,40.673949
+"1187","New York, New York",31,5248,-74.038357,40.673949
+"1188","New York, New York",32,7888,-74.038357,40.673949
+"1189","New York, New York",33,2401,-74.038357,40.673949
+"1190","New York, New York",34,6417,-74.038357,40.673949
+"1191","New York, New York",35,9998,-74.038357,40.673949
+"1192","New York, New York",36,7956,-74.038357,40.673949
+"1193","New York, New York",37,1260,-74.038357,40.673949
+"1194","New York, New York",38,9191,-74.038357,40.673949
+"1195","New York, New York",39,9465,-74.038357,40.673949
+"1196","New York, New York",40,3088,-74.038357,40.673949
+"1197","New York, New York",41,10033,-74.038357,40.673949
+"1198","New York, New York",42,8725,-74.038357,40.673949
+"1199","New York, New York",43,7565,-74.038357,40.673949
+"1200","New York, New York",44,358,-74.038357,40.673949
+"1201","New York, New York",45,63,-74.038357,40.673949
+"1202","New York, New York",46,76,-74.038357,40.673949
+"1203","New York, New York",47,99,-74.038357,40.673949
+"1204","New York, New York",48,50,-74.038357,40.673949
+"1205","New York, New York",49,1100,-74.038357,40.673949
+"1206","New York, New York",50,15612,-74.038357,40.673949
+"1207","New York, New York",51,337,-74.038357,40.673949
+"1208","New York/Newark Area, Newark, New Jersey",1,91590,-74.038357,40.673949
+"1209","New York/Newark Area, Newark, New Jersey",2,78776,-74.038357,40.673949
+"1210","New York/Newark Area, Newark, New Jersey",3,3675,-74.038357,40.673949
+"1211","New York/Newark Area, Newark, New Jersey",4,77867,-74.038357,40.673949
+"1212","New York/Newark Area, Newark, New Jersey",5,77460,-74.038357,40.673949
+"1213","New York/Newark Area, Newark, New Jersey",6,85671,-74.038357,40.673949
+"1214","New York/Newark Area, Newark, New Jersey",7,100086,-74.038357,40.673949
+"1215","New York/Newark Area, Newark, New Jersey",8,130283,-74.038357,40.673949
+"1216","New York/Newark Area, Newark, New Jersey",9,108739,-74.038357,40.673949
+"1217","New York/Newark Area, Newark, New Jersey",10,59395,-74.038357,40.673949
+"1218","New York/Newark Area, Newark, New Jersey",11,89479,-74.038357,40.673949
+"1219","New York/Newark Area, Newark, New Jersey",12,92712,-74.038357,40.673949
+"1220","New York/Newark Area, Newark, New Jersey",13,99637,-74.038357,40.673949
+"1221","New York/Newark Area, Newark, New Jersey",14,104184,-74.038357,40.673949
+"1222","New York/Newark Area, Newark, New Jersey",15,101238,-74.038357,40.673949
+"1223","New York/Newark Area, Newark, New Jersey",16,98915,-74.038357,40.673949
+"1224","New York/Newark Area, Newark, New Jersey",17,122280,-74.038357,40.673949
+"1225","New York/Newark Area, Newark, New Jersey",18,89699,-74.038357,40.673949
+"1226","New York/Newark Area, Newark, New Jersey",19,104559,-74.038357,40.673949
+"1227","New York/Newark Area, Newark, New Jersey",20,92144,-74.038357,40.673949
+"1228","New York/Newark Area, Newark, New Jersey",21,110854,-74.038357,40.673949
+"1229","New York/Newark Area, Newark, New Jersey",22,99509,-74.038357,40.673949
+"1230","New York/Newark Area, Newark, New Jersey",23,26588,-74.038357,40.673949
+"1231","New York/Newark Area, Newark, New Jersey",24,935,-74.038357,40.673949
+"1232","New York/Newark Area, Newark, New Jersey",25,1207,-74.038357,40.673949
+"1233","New York/Newark Area, Newark, New Jersey",26,1860,-74.038357,40.673949
+"1234","New York/Newark Area, Newark, New Jersey",27,3926,-74.038357,40.673949
+"1235","New York/Newark Area, Newark, New Jersey",28,28246,-74.038357,40.673949
+"1236","New York/Newark Area, Newark, New Jersey",29,116228,-74.038357,40.673949
+"1237","New York/Newark Area, Newark, New Jersey",30,115489,-74.038357,40.673949
+"1238","New York/Newark Area, Newark, New Jersey",31,107664,-74.038357,40.673949
+"1239","New York/Newark Area, Newark, New Jersey",32,106241,-74.038357,40.673949
+"1240","New York/Newark Area, Newark, New Jersey",33,39263,-74.038357,40.673949
+"1241","New York/Newark Area, Newark, New Jersey",34,43733,-74.038357,40.673949
+"1242","New York/Newark Area, Newark, New Jersey",35,119516,-74.038357,40.673949
+"1243","New York/Newark Area, Newark, New Jersey",36,92115,-74.038357,40.673949
+"1244","New York/Newark Area, Newark, New Jersey",37,7120,-74.038357,40.673949
+"1245","New York/Newark Area, Newark, New Jersey",38,61337,-74.038357,40.673949
+"1246","New York/Newark Area, Newark, New Jersey",39,100386,-74.038357,40.673949
+"1247","New York/Newark Area, Newark, New Jersey",40,17876,-74.038357,40.673949
+"1248","New York/Newark Area, Newark, New Jersey",41,110442,-74.038357,40.673949
+"1249","New York/Newark Area, Newark, New Jersey",42,95579,-74.038357,40.673949
+"1250","New York/Newark Area, Newark, New Jersey",43,111167,-74.038357,40.673949
+"1251","New York/Newark Area, Newark, New Jersey",44,8348,-74.038357,40.673949
+"1252","New York/Newark Area, Newark, New Jersey",45,555,-74.038357,40.673949
+"1253","New York/Newark Area, Newark, New Jersey",46,725,-74.038357,40.673949
+"1254","New York/Newark Area, Newark, New Jersey",47,258,-74.038357,40.673949
+"1255","New York/Newark Area, Newark, New Jersey",48,477,-74.038357,40.673949
+"1256","New York/Newark Area, Newark, New Jersey",49,9520,-74.038357,40.673949
+"1257","New York/Newark Area, Newark, New Jersey",50,117976,-74.038357,40.673949
+"1258","New York/Newark Area, Newark, New Jersey",51,8987,-74.038357,40.673949
+"1259","Norfolk, Virginia",1,23901,-76.31174,36.86642
+"1260","Norfolk, Virginia",2,19950,-76.31174,36.86642
+"1261","Norfolk, Virginia",3,523,-76.31174,36.86642
+"1262","Norfolk, Virginia",4,21766,-76.31174,36.86642
+"1263","Norfolk, Virginia",5,20872,-76.31174,36.86642
+"1264","Norfolk, Virginia",6,34097,-76.31174,36.86642
+"1265","Norfolk, Virginia",7,29511,-76.31174,36.86642
+"1266","Norfolk, Virginia",8,32516,-76.31174,36.86642
+"1267","Norfolk, Virginia",9,22884,-76.31174,36.86642
+"1268","Norfolk, Virginia",10,25575,-76.31174,36.86642
+"1269","Norfolk, Virginia",11,20505,-76.31174,36.86642
+"1270","Norfolk, Virginia",12,24998,-76.31174,36.86642
+"1271","Norfolk, Virginia",13,28414,-76.31174,36.86642
+"1272","Norfolk, Virginia",14,20129,-76.31174,36.86642
+"1273","Norfolk, Virginia",15,33432,-76.31174,36.86642
+"1274","Norfolk, Virginia",16,27751,-76.31174,36.86642
+"1275","Norfolk, Virginia",17,34353,-76.31174,36.86642
+"1276","Norfolk, Virginia",18,28073,-76.31174,36.86642
+"1277","Norfolk, Virginia",19,24116,-76.31174,36.86642
+"1278","Norfolk, Virginia",20,31652,-76.31174,36.86642
+"1279","Norfolk, Virginia",21,24301,-76.31174,36.86642
+"1280","Norfolk, Virginia",22,30879,-76.31174,36.86642
+"1281","Norfolk, Virginia",23,3152,-76.31174,36.86642
+"1282","Norfolk, Virginia",24,215,-76.31174,36.86642
+"1283","Norfolk, Virginia",25,687,-76.31174,36.86642
+"1284","Norfolk, Virginia",26,1503,-76.31174,36.86642
+"1285","Norfolk, Virginia",27,884,-76.31174,36.86642
+"1286","Norfolk, Virginia",28,11293,-76.31174,36.86642
+"1287","Norfolk, Virginia",29,34489,-76.31174,36.86642
+"1288","Norfolk, Virginia",30,27116,-76.31174,36.86642
+"1289","Norfolk, Virginia",31,37517,-76.31174,36.86642
+"1290","Norfolk, Virginia",32,30002,-76.31174,36.86642
+"1291","Norfolk, Virginia",33,9510,-76.31174,36.86642
+"1292","Norfolk, Virginia",34,16975,-76.31174,36.86642
+"1293","Norfolk, Virginia",35,37142,-76.31174,36.86642
+"1294","Norfolk, Virginia",36,30839,-76.31174,36.86642
+"1295","Norfolk, Virginia",37,1520,-76.31174,36.86642
+"1296","Norfolk, Virginia",38,23766,-76.31174,36.86642
+"1297","Norfolk, Virginia",39,27343,-76.31174,36.86642
+"1298","Norfolk, Virginia",40,5812,-76.31174,36.86642
+"1299","Norfolk, Virginia",41,30420,-76.31174,36.86642
+"1300","Norfolk, Virginia",42,27040,-76.31174,36.86642
+"1301","Norfolk, Virginia",43,28771,-76.31174,36.86642
+"1302","Norfolk, Virginia",44,3945,-76.31174,36.86642
+"1303","Norfolk, Virginia",45,29,-76.31174,36.86642
+"1304","Norfolk, Virginia",46,359,-76.31174,36.86642
+"1305","Norfolk, Virginia",47,150,-76.31174,36.86642
+"1306","Norfolk, Virginia",48,397,-76.31174,36.86642
+"1307","Norfolk, Virginia",49,1353,-76.31174,36.86642
+"1308","Norfolk, Virginia",50,27374,-76.31174,36.86642
+"1309","Norfolk, Virginia",51,2655,-76.31174,36.86642
+"1310","Oakland, California",1,16953,-122.3081,37.82152
+"1311","Oakland, California",2,13224,-122.3081,37.82152
+"1312","Oakland, California",3,559,-122.3081,37.82152
+"1313","Oakland, California",4,13900,-122.3081,37.82152
+"1314","Oakland, California",5,17045,-122.3081,37.82152
+"1315","Oakland, California",6,19979,-122.3081,37.82152
+"1316","Oakland, California",7,20073,-122.3081,37.82152
+"1317","Oakland, California",8,17791,-122.3081,37.82152
+"1318","Oakland, California",9,15902,-122.3081,37.82152
+"1319","Oakland, California",10,11787,-122.3081,37.82152
+"1320","Oakland, California",11,20413,-122.3081,37.82152
+"1321","Oakland, California",12,18101,-122.3081,37.82152
+"1322","Oakland, California",13,18846,-122.3081,37.82152
+"1323","Oakland, California",14,19407,-122.3081,37.82152
+"1324","Oakland, California",15,20731,-122.3081,37.82152
+"1325","Oakland, California",16,20811,-122.3081,37.82152
+"1326","Oakland, California",17,23189,-122.3081,37.82152
+"1327","Oakland, California",18,20446,-122.3081,37.82152
+"1328","Oakland, California",19,21895,-122.3081,37.82152
+"1329","Oakland, California",20,24998,-122.3081,37.82152
+"1330","Oakland, California",21,21293,-122.3081,37.82152
+"1331","Oakland, California",22,21003,-122.3081,37.82152
+"1332","Oakland, California",23,7397,-122.3081,37.82152
+"1333","Oakland, California",24,72,-122.3081,37.82152
+"1334","Oakland, California",25,110,-122.3081,37.82152
+"1335","Oakland, California",26,137,-122.3081,37.82152
+"1336","Oakland, California",27,359,-122.3081,37.82152
+"1337","Oakland, California",28,8048,-122.3081,37.82152
+"1338","Oakland, California",29,23545,-122.3081,37.82152
+"1339","Oakland, California",30,21650,-122.3081,37.82152
+"1340","Oakland, California",31,21435,-122.3081,37.82152
+"1341","Oakland, California",32,26158,-122.3081,37.82152
+"1342","Oakland, California",33,4646,-122.3081,37.82152
+"1343","Oakland, California",34,11639,-122.3081,37.82152
+"1344","Oakland, California",35,22325,-122.3081,37.82152
+"1345","Oakland, California",36,20787,-122.3081,37.82152
+"1346","Oakland, California",37,1506,-122.3081,37.82152
+"1347","Oakland, California",38,16322,-122.3081,37.82152
+"1348","Oakland, California",39,22054,-122.3081,37.82152
+"1349","Oakland, California",40,5403,-122.3081,37.82152
+"1350","Oakland, California",41,20169,-122.3081,37.82152
+"1351","Oakland, California",42,20162,-122.3081,37.82152
+"1352","Oakland, California",43,19666,-122.3081,37.82152
+"1353","Oakland, California",44,3530,-122.3081,37.82152
+"1354","Oakland, California",45,15,-122.3081,37.82152
+"1355","Oakland, California",46,3,-122.3081,37.82152
+"1356","Oakland, California",47,31,-122.3081,37.82152
+"1357","Oakland, California",48,154,-122.3081,37.82152
+"1358","Oakland, California",49,371,-122.3081,37.82152
+"1359","Oakland, California",50,19962,-122.3081,37.82152
+"1360","Oakland, California",51,3449,-122.3081,37.82152
+"1361","Panama City, Florida",1,150,-84.19926,30.19009
+"1362","Panama City, Florida",2,307,-84.19926,30.19009
+"1363","Panama City, Florida",3,1,-84.19926,30.19009
+"1364","Panama City, Florida",4,468,-84.19926,30.19009
+"1365","Panama City, Florida",5,410,-84.19926,30.19009
+"1366","Panama City, Florida",6,518,-84.19926,30.19009
+"1367","Panama City, Florida",7,410,-84.19926,30.19009
+"1368","Panama City, Florida",8,518,-84.19926,30.19009
+"1369","Panama City, Florida",9,389,-84.19926,30.19009
+"1370","Panama City, Florida",10,427,-84.19926,30.19009
+"1371","Panama City, Florida",11,445,-84.19926,30.19009
+"1372","Panama City, Florida",12,450,-84.19926,30.19009
+"1373","Panama City, Florida",13,423,-84.19926,30.19009
+"1374","Panama City, Florida",14,383,-84.19926,30.19009
+"1375","Panama City, Florida",15,449,-84.19926,30.19009
+"1376","Panama City, Florida",16,282,-84.19926,30.19009
+"1377","Panama City, Florida",17,340,-84.19926,30.19009
+"1378","Panama City, Florida",18,374,-84.19926,30.19009
+"1379","Panama City, Florida",19,306,-84.19926,30.19009
+"1380","Panama City, Florida",20,382,-84.19926,30.19009
+"1381","Panama City, Florida",21,318,-84.19926,30.19009
+"1382","Panama City, Florida",22,272,-84.19926,30.19009
+"1383","Panama City, Florida",25,1,-84.19926,30.19009
+"1384","Panama City, Florida",27,4,-84.19926,30.19009
+"1385","Panama City, Florida",28,125,-84.19926,30.19009
+"1386","Panama City, Florida",29,287,-84.19926,30.19009
+"1387","Panama City, Florida",30,367,-84.19926,30.19009
+"1388","Panama City, Florida",31,276,-84.19926,30.19009
+"1389","Panama City, Florida",32,339,-84.19926,30.19009
+"1390","Panama City, Florida",33,153,-84.19926,30.19009
+"1391","Panama City, Florida",34,98,-84.19926,30.19009
+"1392","Panama City, Florida",35,346,-84.19926,30.19009
+"1393","Panama City, Florida",36,310,-84.19926,30.19009
+"1394","Panama City, Florida",37,2,-84.19926,30.19009
+"1395","Panama City, Florida",38,173,-84.19926,30.19009
+"1396","Panama City, Florida",39,311,-84.19926,30.19009
+"1397","Panama City, Florida",40,2,-84.19926,30.19009
+"1398","Panama City, Florida",41,437,-84.19926,30.19009
+"1399","Panama City, Florida",42,442,-84.19926,30.19009
+"1400","Panama City, Florida",43,178,-84.19926,30.19009
+"1401","Panama City, Florida",44,266,-84.19926,30.19009
+"1402","Panama City, Florida",49,3,-84.19926,30.19009
+"1403","Panama City, Florida",50,418,-84.19926,30.19009
+"1404","Philadelphia, Pennsylvania",1,13375,-75.202191,39.91882
+"1405","Philadelphia, Pennsylvania",2,15123,-75.202191,39.91882
+"1406","Philadelphia, Pennsylvania",3,199,-75.202191,39.91882
+"1407","Philadelphia, Pennsylvania",4,7650,-75.202191,39.91882
+"1408","Philadelphia, Pennsylvania",5,13661,-75.202191,39.91882
+"1409","Philadelphia, Pennsylvania",6,12448,-75.202191,39.91882
+"1410","Philadelphia, Pennsylvania",7,15038,-75.202191,39.91882
+"1411","Philadelphia, Pennsylvania",8,17407,-75.202191,39.91882
+"1412","Philadelphia, Pennsylvania",9,13191,-75.202191,39.91882
+"1413","Philadelphia, Pennsylvania",10,6679,-75.202191,39.91882
+"1414","Philadelphia, Pennsylvania",11,13040,-75.202191,39.91882
+"1415","Philadelphia, Pennsylvania",12,12893,-75.202191,39.91882
+"1416","Philadelphia, Pennsylvania",13,6217,-75.202191,39.91882
+"1417","Philadelphia, Pennsylvania",14,15126,-75.202191,39.91882
+"1418","Philadelphia, Pennsylvania",15,14374,-75.202191,39.91882
+"1419","Philadelphia, Pennsylvania",16,9191,-75.202191,39.91882
+"1420","Philadelphia, Pennsylvania",17,14203,-75.202191,39.91882
+"1421","Philadelphia, Pennsylvania",18,13919,-75.202191,39.91882
+"1422","Philadelphia, Pennsylvania",19,15574,-75.202191,39.91882
+"1423","Philadelphia, Pennsylvania",20,14640,-75.202191,39.91882
+"1424","Philadelphia, Pennsylvania",21,13276,-75.202191,39.91882
+"1425","Philadelphia, Pennsylvania",22,12589,-75.202191,39.91882
+"1426","Philadelphia, Pennsylvania",23,8917,-75.202191,39.91882
+"1427","Philadelphia, Pennsylvania",24,2,-75.202191,39.91882
+"1428","Philadelphia, Pennsylvania",25,5,-75.202191,39.91882
+"1429","Philadelphia, Pennsylvania",26,18,-75.202191,39.91882
+"1430","Philadelphia, Pennsylvania",27,3642,-75.202191,39.91882
+"1431","Philadelphia, Pennsylvania",28,4910,-75.202191,39.91882
+"1432","Philadelphia, Pennsylvania",29,7463,-75.202191,39.91882
+"1433","Philadelphia, Pennsylvania",30,10015,-75.202191,39.91882
+"1434","Philadelphia, Pennsylvania",31,5610,-75.202191,39.91882
+"1435","Philadelphia, Pennsylvania",32,12417,-75.202191,39.91882
+"1436","Philadelphia, Pennsylvania",33,2242,-75.202191,39.91882
+"1437","Philadelphia, Pennsylvania",34,5494,-75.202191,39.91882
+"1438","Philadelphia, Pennsylvania",35,19672,-75.202191,39.91882
+"1439","Philadelphia, Pennsylvania",36,3442,-75.202191,39.91882
+"1440","Philadelphia, Pennsylvania",37,141,-75.202191,39.91882
+"1441","Philadelphia, Pennsylvania",38,3275,-75.202191,39.91882
+"1442","Philadelphia, Pennsylvania",39,6346,-75.202191,39.91882
+"1443","Philadelphia, Pennsylvania",40,1066,-75.202191,39.91882
+"1444","Philadelphia, Pennsylvania",41,11367,-75.202191,39.91882
+"1445","Philadelphia, Pennsylvania",42,7165,-75.202191,39.91882
+"1446","Philadelphia, Pennsylvania",43,4654,-75.202191,39.91882
+"1447","Philadelphia, Pennsylvania",44,3,-75.202191,39.91882
+"1448","Philadelphia, Pennsylvania",46,4,-75.202191,39.91882
+"1449","Philadelphia, Pennsylvania",47,7,-75.202191,39.91882
+"1450","Philadelphia, Pennsylvania",48,19,-75.202191,39.91882
+"1451","Philadelphia, Pennsylvania",49,81,-75.202191,39.91882
+"1452","Philadelphia, Pennsylvania",50,5221,-75.202191,39.91882
+"1453","Philadelphia, Pennsylvania",51,3311,-75.202191,39.91882
+"1454","Port Canaveral, Florida",1,170,-80.60815,28.41409
+"1455","Port Canaveral, Florida",2,213,-80.60815,28.41409
+"1456","Port Canaveral, Florida",4,214,-80.60815,28.41409
+"1457","Port Canaveral, Florida",5,247,-80.60815,28.41409
+"1458","Port Canaveral, Florida",6,863,-80.60815,28.41409
+"1459","Port Canaveral, Florida",7,654,-80.60815,28.41409
+"1460","Port Canaveral, Florida",8,897,-80.60815,28.41409
+"1461","Port Canaveral, Florida",9,855,-80.60815,28.41409
+"1462","Port Canaveral, Florida",10,262,-80.60815,28.41409
+"1463","Port Canaveral, Florida",11,818,-80.60815,28.41409
+"1464","Port Canaveral, Florida",12,704,-80.60815,28.41409
+"1465","Port Canaveral, Florida",13,931,-80.60815,28.41409
+"1466","Port Canaveral, Florida",14,753,-80.60815,28.41409
+"1467","Port Canaveral, Florida",15,711,-80.60815,28.41409
+"1468","Port Canaveral, Florida",16,804,-80.60815,28.41409
+"1469","Port Canaveral, Florida",17,857,-80.60815,28.41409
+"1470","Port Canaveral, Florida",18,892,-80.60815,28.41409
+"1471","Port Canaveral, Florida",19,614,-80.60815,28.41409
+"1472","Port Canaveral, Florida",20,667,-80.60815,28.41409
+"1473","Port Canaveral, Florida",21,648,-80.60815,28.41409
+"1474","Port Canaveral, Florida",22,506,-80.60815,28.41409
+"1475","Port Canaveral, Florida",23,292,-80.60815,28.41409
+"1476","Port Canaveral, Florida",26,237,-80.60815,28.41409
+"1477","Port Canaveral, Florida",27,628,-80.60815,28.41409
+"1478","Port Canaveral, Florida",28,744,-80.60815,28.41409
+"1479","Port Canaveral, Florida",29,202,-80.60815,28.41409
+"1480","Port Canaveral, Florida",30,633,-80.60815,28.41409
+"1481","Port Canaveral, Florida",31,460,-80.60815,28.41409
+"1482","Port Canaveral, Florida",32,717,-80.60815,28.41409
+"1483","Port Canaveral, Florida",33,89,-80.60815,28.41409
+"1484","Port Canaveral, Florida",34,468,-80.60815,28.41409
+"1485","Port Canaveral, Florida",35,506,-80.60815,28.41409
+"1486","Port Canaveral, Florida",36,214,-80.60815,28.41409
+"1487","Port Canaveral, Florida",38,160,-80.60815,28.41409
+"1488","Port Canaveral, Florida",39,490,-80.60815,28.41409
+"1489","Port Canaveral, Florida",40,478,-80.60815,28.41409
+"1490","Port Canaveral, Florida",41,656,-80.60815,28.41409
+"1491","Port Canaveral, Florida",42,607,-80.60815,28.41409
+"1492","Port Canaveral, Florida",43,605,-80.60815,28.41409
+"1493","Port Canaveral, Florida",44,80,-80.60815,28.41409
+"1494","Port Canaveral, Florida",49,1,-80.60815,28.41409
+"1495","Port Canaveral, Florida",50,227,-80.60815,28.41409
+"1496","Port Canaveral, Florida",51,46,-80.60815,28.41409
+"1497","Port Everglades, Florida",1,13994,-80.117801,26.093392
+"1498","Port Everglades, Florida",2,25929,-80.117801,26.093392
+"1499","Port Everglades, Florida",3,157,-80.117801,26.093392
+"1500","Port Everglades, Florida",4,6445,-80.117801,26.093392
+"1501","Port Everglades, Florida",5,14783,-80.117801,26.093392
+"1502","Port Everglades, Florida",6,21471,-80.117801,26.093392
+"1503","Port Everglades, Florida",7,22278,-80.117801,26.093392
+"1504","Port Everglades, Florida",8,21030,-80.117801,26.093392
+"1505","Port Everglades, Florida",9,18538,-80.117801,26.093392
+"1506","Port Everglades, Florida",10,30094,-80.117801,26.093392
+"1507","Port Everglades, Florida",11,23688,-80.117801,26.093392
+"1508","Port Everglades, Florida",12,12876,-80.117801,26.093392
+"1509","Port Everglades, Florida",13,22104,-80.117801,26.093392
+"1510","Port Everglades, Florida",14,22437,-80.117801,26.093392
+"1511","Port Everglades, Florida",15,16743,-80.117801,26.093392
+"1512","Port Everglades, Florida",16,13392,-80.117801,26.093392
+"1513","Port Everglades, Florida",17,20827,-80.117801,26.093392
+"1514","Port Everglades, Florida",18,26541,-80.117801,26.093392
+"1515","Port Everglades, Florida",19,15470,-80.117801,26.093392
+"1516","Port Everglades, Florida",20,13881,-80.117801,26.093392
+"1517","Port Everglades, Florida",21,15927,-80.117801,26.093392
+"1518","Port Everglades, Florida",22,13478,-80.117801,26.093392
+"1519","Port Everglades, Florida",23,1222,-80.117801,26.093392
+"1520","Port Everglades, Florida",24,35,-80.117801,26.093392
+"1521","Port Everglades, Florida",25,33,-80.117801,26.093392
+"1522","Port Everglades, Florida",26,149,-80.117801,26.093392
+"1523","Port Everglades, Florida",27,72,-80.117801,26.093392
+"1524","Port Everglades, Florida",28,11236,-80.117801,26.093392
+"1525","Port Everglades, Florida",29,14747,-80.117801,26.093392
+"1526","Port Everglades, Florida",30,17160,-80.117801,26.093392
+"1527","Port Everglades, Florida",31,18000,-80.117801,26.093392
+"1528","Port Everglades, Florida",32,20685,-80.117801,26.093392
+"1529","Port Everglades, Florida",33,1963,-80.117801,26.093392
+"1530","Port Everglades, Florida",34,13506,-80.117801,26.093392
+"1531","Port Everglades, Florida",35,14264,-80.117801,26.093392
+"1532","Port Everglades, Florida",36,10965,-80.117801,26.093392
+"1533","Port Everglades, Florida",37,1309,-80.117801,26.093392
+"1534","Port Everglades, Florida",38,10538,-80.117801,26.093392
+"1535","Port Everglades, Florida",39,17381,-80.117801,26.093392
+"1536","Port Everglades, Florida",40,4891,-80.117801,26.093392
+"1537","Port Everglades, Florida",41,18261,-80.117801,26.093392
+"1538","Port Everglades, Florida",42,16799,-80.117801,26.093392
+"1539","Port Everglades, Florida",43,13268,-80.117801,26.093392
+"1540","Port Everglades, Florida",44,472,-80.117801,26.093392
+"1541","Port Everglades, Florida",45,59,-80.117801,26.093392
+"1542","Port Everglades, Florida",46,1,-80.117801,26.093392
+"1543","Port Everglades, Florida",47,41,-80.117801,26.093392
+"1544","Port Everglades, Florida",48,99,-80.117801,26.093392
+"1545","Port Everglades, Florida",49,3494,-80.117801,26.093392
+"1546","Port Everglades, Florida",50,13370,-80.117801,26.093392
+"1547","Port Everglades, Florida",51,418,-80.117801,26.093392
+"1548","Port Hueneme, California",1,1289,-119.208475,34.148244
+"1549","Port Hueneme, California",2,461,-119.208475,34.148244
+"1550","Port Hueneme, California",3,2,-119.208475,34.148244
+"1551","Port Hueneme, California",4,763,-119.208475,34.148244
+"1552","Port Hueneme, California",5,760,-119.208475,34.148244
+"1553","Port Hueneme, California",6,733,-119.208475,34.148244
+"1554","Port Hueneme, California",7,2233,-119.208475,34.148244
+"1555","Port Hueneme, California",8,744,-119.208475,34.148244
+"1556","Port Hueneme, California",9,5645,-119.208475,34.148244
+"1557","Port Hueneme, California",10,2310,-119.208475,34.148244
+"1558","Port Hueneme, California",11,821,-119.208475,34.148244
+"1559","Port Hueneme, California",12,1860,-119.208475,34.148244
+"1560","Port Hueneme, California",13,1834,-119.208475,34.148244
+"1561","Port Hueneme, California",14,2377,-119.208475,34.148244
+"1562","Port Hueneme, California",15,891,-119.208475,34.148244
+"1563","Port Hueneme, California",16,1880,-119.208475,34.148244
+"1564","Port Hueneme, California",17,2183,-119.208475,34.148244
+"1565","Port Hueneme, California",18,824,-119.208475,34.148244
+"1566","Port Hueneme, California",19,3818,-119.208475,34.148244
+"1567","Port Hueneme, California",20,717,-119.208475,34.148244
+"1568","Port Hueneme, California",21,1961,-119.208475,34.148244
+"1569","Port Hueneme, California",22,3040,-119.208475,34.148244
+"1570","Port Hueneme, California",23,176,-119.208475,34.148244
+"1571","Port Hueneme, California",26,6,-119.208475,34.148244
+"1572","Port Hueneme, California",27,4,-119.208475,34.148244
+"1573","Port Hueneme, California",28,236,-119.208475,34.148244
+"1574","Port Hueneme, California",29,814,-119.208475,34.148244
+"1575","Port Hueneme, California",30,2196,-119.208475,34.148244
+"1576","Port Hueneme, California",31,1473,-119.208475,34.148244
+"1577","Port Hueneme, California",32,1178,-119.208475,34.148244
+"1578","Port Hueneme, California",33,179,-119.208475,34.148244
+"1579","Port Hueneme, California",34,35,-119.208475,34.148244
+"1580","Port Hueneme, California",35,1636,-119.208475,34.148244
+"1581","Port Hueneme, California",36,2328,-119.208475,34.148244
+"1582","Port Hueneme, California",38,2217,-119.208475,34.148244
+"1583","Port Hueneme, California",39,816,-119.208475,34.148244
+"1584","Port Hueneme, California",40,1358,-119.208475,34.148244
+"1585","Port Hueneme, California",41,1778,-119.208475,34.148244
+"1586","Port Hueneme, California",42,757,-119.208475,34.148244
+"1587","Port Hueneme, California",43,1740,-119.208475,34.148244
+"1588","Port Hueneme, California",44,647,-119.208475,34.148244
+"1589","Port Hueneme, California",49,10,-119.208475,34.148244
+"1590","Port Hueneme, California",50,2594,-119.208475,34.148244
+"1591","Port Manatee, Florida",1,153,-82.60271,27.66
+"1592","Port Manatee, Florida",2,269,-82.60271,27.66
+"1593","Port Manatee, Florida",3,1,-82.60271,27.66
+"1594","Port Manatee, Florida",4,252,-82.60271,27.66
+"1595","Port Manatee, Florida",5,267,-82.60271,27.66
+"1596","Port Manatee, Florida",6,130,-82.60271,27.66
+"1597","Port Manatee, Florida",7,269,-82.60271,27.66
+"1598","Port Manatee, Florida",8,247,-82.60271,27.66
+"1599","Port Manatee, Florida",9,273,-82.60271,27.66
+"1600","Port Manatee, Florida",10,270,-82.60271,27.66
+"1601","Port Manatee, Florida",11,255,-82.60271,27.66
+"1602","Port Manatee, Florida",12,302,-82.60271,27.66
+"1603","Port Manatee, Florida",13,319,-82.60271,27.66
+"1604","Port Manatee, Florida",14,600,-82.60271,27.66
+"1605","Port Manatee, Florida",15,296,-82.60271,27.66
+"1606","Port Manatee, Florida",16,269,-82.60271,27.66
+"1607","Port Manatee, Florida",17,559,-82.60271,27.66
+"1608","Port Manatee, Florida",18,314,-82.60271,27.66
+"1609","Port Manatee, Florida",19,248,-82.60271,27.66
+"1610","Port Manatee, Florida",20,507,-82.60271,27.66
+"1611","Port Manatee, Florida",21,249,-82.60271,27.66
+"1612","Port Manatee, Florida",22,409,-82.60271,27.66
+"1613","Port Manatee, Florida",23,2,-82.60271,27.66
+"1614","Port Manatee, Florida",28,297,-82.60271,27.66
+"1615","Port Manatee, Florida",29,138,-82.60271,27.66
+"1616","Port Manatee, Florida",30,220,-82.60271,27.66
+"1617","Port Manatee, Florida",31,234,-82.60271,27.66
+"1618","Port Manatee, Florida",32,449,-82.60271,27.66
+"1619","Port Manatee, Florida",33,103,-82.60271,27.66
+"1620","Port Manatee, Florida",34,311,-82.60271,27.66
+"1621","Port Manatee, Florida",35,403,-82.60271,27.66
+"1622","Port Manatee, Florida",36,78,-82.60271,27.66
+"1623","Port Manatee, Florida",37,3,-82.60271,27.66
+"1624","Port Manatee, Florida",38,130,-82.60271,27.66
+"1625","Port Manatee, Florida",39,221,-82.60271,27.66
+"1626","Port Manatee, Florida",40,107,-82.60271,27.66
+"1627","Port Manatee, Florida",41,107,-82.60271,27.66
+"1628","Port Manatee, Florida",42,338,-82.60271,27.66
+"1629","Port Manatee, Florida",43,82,-82.60271,27.66
+"1630","Port Manatee, Florida",44,335,-82.60271,27.66
+"1631","Port Manatee, Florida",49,1,-82.60271,27.66
+"1632","Port Manatee, Florida",50,150,-82.60271,27.66
+"1633","Portland, Maine",1,1,-70.25134,43.64951
+"1634","Portland, Maine",2,144,-70.25134,43.64951
+"1635","Portland, Maine",3,3,-70.25134,43.64951
+"1636","Portland, Maine",4,28,-70.25134,43.64951
+"1637","Portland, Maine",5,286,-70.25134,43.64951
+"1638","Portland, Maine",6,21,-70.25134,43.64951
+"1639","Portland, Maine",7,235,-70.25134,43.64951
+"1640","Portland, Maine",8,284,-70.25134,43.64951
+"1641","Portland, Maine",9,7,-70.25134,43.64951
+"1642","Portland, Maine",10,255,-70.25134,43.64951
+"1643","Portland, Maine",11,194,-70.25134,43.64951
+"1644","Portland, Maine",12,9,-70.25134,43.64951
+"1645","Portland, Maine",13,235,-70.25134,43.64951
+"1646","Portland, Maine",14,9,-70.25134,43.64951
+"1647","Portland, Maine",15,266,-70.25134,43.64951
+"1648","Portland, Maine",16,259,-70.25134,43.64951
+"1649","Portland, Maine",17,7,-70.25134,43.64951
+"1650","Portland, Maine",18,273,-70.25134,43.64951
+"1651","Portland, Maine",19,244,-70.25134,43.64951
+"1652","Portland, Maine",20,171,-70.25134,43.64951
+"1653","Portland, Maine",21,24,-70.25134,43.64951
+"1654","Portland, Maine",22,257,-70.25134,43.64951
+"1655","Portland, Maine",23,6,-70.25134,43.64951
+"1656","Portland, Maine",27,26,-70.25134,43.64951
+"1657","Portland, Maine",28,269,-70.25134,43.64951
+"1658","Portland, Maine",29,196,-70.25134,43.64951
+"1659","Portland, Maine",30,25,-70.25134,43.64951
+"1660","Portland, Maine",31,558,-70.25134,43.64951
+"1661","Portland, Maine",32,130,-70.25134,43.64951
+"1662","Portland, Maine",34,248,-70.25134,43.64951
+"1663","Portland, Maine",35,13,-70.25134,43.64951
+"1664","Portland, Maine",36,9,-70.25134,43.64951
+"1665","Portland, Maine",37,34,-70.25134,43.64951
+"1666","Portland, Maine",38,134,-70.25134,43.64951
+"1667","Portland, Maine",39,15,-70.25134,43.64951
+"1668","Portland, Maine",40,9,-70.25134,43.64951
+"1669","Portland, Maine",41,175,-70.25134,43.64951
+"1670","Portland, Maine",42,18,-70.25134,43.64951
+"1671","Portland, Maine",43,14,-70.25134,43.64951
+"1672","Portland, Maine",49,1,-70.25134,43.64951
+"1673","Portland, Maine",50,11,-70.25134,43.64951
+"1674","Portland, Oregon",1,25,-122.681944,45.52
+"1675","Portland, Oregon",2,71,-122.681944,45.52
+"1676","Portland, Oregon",4,96,-122.681944,45.52
+"1677","Portland, Oregon",5,42,-122.681944,45.52
+"1678","Portland, Oregon",6,23,-122.681944,45.52
+"1679","Portland, Oregon",7,28,-122.681944,45.52
+"1680","Portland, Oregon",8,32,-122.681944,45.52
+"1681","Portland, Oregon",9,64,-122.681944,45.52
+"1682","Portland, Oregon",10,5,-122.681944,45.52
+"1683","Portland, Oregon",11,35,-122.681944,45.52
+"1684","Portland, Oregon",12,93,-122.681944,45.52
+"1685","Portland, Oregon",13,104,-122.681944,45.52
+"1686","Portland, Oregon",14,51,-122.681944,45.52
+"1687","Portland, Oregon",15,8,-122.681944,45.52
+"1688","Portland, Oregon",16,141,-122.681944,45.52
+"1689","Portland, Oregon",17,335,-122.681944,45.52
+"1690","Portland, Oregon",18,66,-122.681944,45.52
+"1691","Portland, Oregon",19,5,-122.681944,45.52
+"1692","Portland, Oregon",20,7,-122.681944,45.52
+"1693","Portland, Oregon",21,16,-122.681944,45.52
+"1694","Portland, Oregon",22,59,-122.681944,45.52
+"1695","Portland, Oregon",23,1,-122.681944,45.52
+"1696","Portland, Oregon",28,61,-122.681944,45.52
+"1697","Portland, Oregon",29,119,-122.681944,45.52
+"1698","Portland, Oregon",30,80,-122.681944,45.52
+"1699","Portland, Oregon",31,132,-122.681944,45.52
+"1700","Portland, Oregon",32,60,-122.681944,45.52
+"1701","Portland, Oregon",33,1,-122.681944,45.52
+"1702","Portland, Oregon",34,1,-122.681944,45.52
+"1703","Portland, Oregon",35,6,-122.681944,45.52
+"1704","Portland, Oregon",36,41,-122.681944,45.52
+"1705","Portland, Oregon",38,19,-122.681944,45.52
+"1706","Portland, Oregon",39,10,-122.681944,45.52
+"1707","Portland, Oregon",40,34,-122.681944,45.52
+"1708","Portland, Oregon",41,46,-122.681944,45.52
+"1709","Portland, Oregon",42,20,-122.681944,45.52
+"1710","Portland, Oregon",43,13,-122.681944,45.52
+"1711","Portland, Oregon",44,23,-122.681944,45.52
+"1712","Portland, Oregon",50,6,-122.681944,45.52
+"1713","San Diego, California",1,35,-117.1784,32.70821
+"1714","San Diego, California",2,61,-117.1784,32.70821
+"1715","San Diego, California",4,35,-117.1784,32.70821
+"1716","San Diego, California",5,55,-117.1784,32.70821
+"1717","San Diego, California",6,722,-117.1784,32.70821
+"1718","San Diego, California",7,691,-117.1784,32.70821
+"1719","San Diego, California",8,722,-117.1784,32.70821
+"1720","San Diego, California",9,751,-117.1784,32.70821
+"1721","San Diego, California",10,75,-117.1784,32.70821
+"1722","San Diego, California",11,831,-117.1784,32.70821
+"1723","San Diego, California",12,848,-117.1784,32.70821
+"1724","San Diego, California",13,742,-117.1784,32.70821
+"1725","San Diego, California",14,719,-117.1784,32.70821
+"1726","San Diego, California",15,682,-117.1784,32.70821
+"1727","San Diego, California",16,834,-117.1784,32.70821
+"1728","San Diego, California",17,802,-117.1784,32.70821
+"1729","San Diego, California",18,735,-117.1784,32.70821
+"1730","San Diego, California",19,858,-117.1784,32.70821
+"1731","San Diego, California",20,795,-117.1784,32.70821
+"1732","San Diego, California",21,752,-117.1784,32.70821
+"1733","San Diego, California",22,714,-117.1784,32.70821
+"1734","San Diego, California",23,732,-117.1784,32.70821
+"1735","San Diego, California",26,2,-117.1784,32.70821
+"1736","San Diego, California",28,14,-117.1784,32.70821
+"1737","San Diego, California",29,693,-117.1784,32.70821
+"1738","San Diego, California",30,664,-117.1784,32.70821
+"1739","San Diego, California",31,671,-117.1784,32.70821
+"1740","San Diego, California",32,661,-117.1784,32.70821
+"1741","San Diego, California",33,597,-117.1784,32.70821
+"1742","San Diego, California",34,33,-117.1784,32.70821
+"1743","San Diego, California",35,728,-117.1784,32.70821
+"1744","San Diego, California",36,598,-117.1784,32.70821
+"1745","San Diego, California",37,9,-117.1784,32.70821
+"1746","San Diego, California",38,82,-117.1784,32.70821
+"1747","San Diego, California",39,723,-117.1784,32.70821
+"1748","San Diego, California",40,731,-117.1784,32.70821
+"1749","San Diego, California",41,60,-117.1784,32.70821
+"1750","San Diego, California",42,922,-117.1784,32.70821
+"1751","San Diego, California",43,796,-117.1784,32.70821
+"1752","San Diego, California",44,2,-117.1784,32.70821
+"1753","San Diego, California",50,81,-117.1784,32.70821
+"1754","San Diego, California",51,637,-117.1784,32.70821
+"1755","San Juan, Puerto Rico",1,5538,-66.16667,18.66667
+"1756","San Juan, Puerto Rico",2,1115,-66.16667,18.66667
+"1757","San Juan, Puerto Rico",3,159,-66.16667,18.66667
+"1758","San Juan, Puerto Rico",4,2776,-66.16667,18.66667
+"1759","San Juan, Puerto Rico",5,4033,-66.16667,18.66667
+"1760","San Juan, Puerto Rico",6,6180,-66.16667,18.66667
+"1761","San Juan, Puerto Rico",7,4076,-66.16667,18.66667
+"1762","San Juan, Puerto Rico",8,3977,-66.16667,18.66667
+"1763","San Juan, Puerto Rico",9,2874,-66.16667,18.66667
+"1764","San Juan, Puerto Rico",10,4822,-66.16667,18.66667
+"1765","San Juan, Puerto Rico",11,5299,-66.16667,18.66667
+"1766","San Juan, Puerto Rico",12,3383,-66.16667,18.66667
+"1767","San Juan, Puerto Rico",13,5806,-66.16667,18.66667
+"1768","San Juan, Puerto Rico",14,2932,-66.16667,18.66667
+"1769","San Juan, Puerto Rico",15,3633,-66.16667,18.66667
+"1770","San Juan, Puerto Rico",16,4519,-66.16667,18.66667
+"1771","San Juan, Puerto Rico",17,8601,-66.16667,18.66667
+"1772","San Juan, Puerto Rico",18,3864,-66.16667,18.66667
+"1773","San Juan, Puerto Rico",19,4745,-66.16667,18.66667
+"1774","San Juan, Puerto Rico",20,3733,-66.16667,18.66667
+"1775","San Juan, Puerto Rico",21,5829,-66.16667,18.66667
+"1776","San Juan, Puerto Rico",22,5430,-66.16667,18.66667
+"1777","San Juan, Puerto Rico",23,960,-66.16667,18.66667
+"1778","San Juan, Puerto Rico",24,7,-66.16667,18.66667
+"1779","San Juan, Puerto Rico",25,30,-66.16667,18.66667
+"1780","San Juan, Puerto Rico",26,92,-66.16667,18.66667
+"1781","San Juan, Puerto Rico",27,195,-66.16667,18.66667
+"1782","San Juan, Puerto Rico",28,2422,-66.16667,18.66667
+"1783","San Juan, Puerto Rico",29,5358,-66.16667,18.66667
+"1784","San Juan, Puerto Rico",30,4102,-66.16667,18.66667
+"1785","San Juan, Puerto Rico",31,6101,-66.16667,18.66667
+"1786","San Juan, Puerto Rico",32,5323,-66.16667,18.66667
+"1787","San Juan, Puerto Rico",33,2005,-66.16667,18.66667
+"1788","San Juan, Puerto Rico",34,1858,-66.16667,18.66667
+"1789","San Juan, Puerto Rico",35,5051,-66.16667,18.66667
+"1790","San Juan, Puerto Rico",36,1890,-66.16667,18.66667
+"1791","San Juan, Puerto Rico",37,126,-66.16667,18.66667
+"1792","San Juan, Puerto Rico",38,1609,-66.16667,18.66667
+"1793","San Juan, Puerto Rico",39,4163,-66.16667,18.66667
+"1794","San Juan, Puerto Rico",40,412,-66.16667,18.66667
+"1795","San Juan, Puerto Rico",41,6293,-66.16667,18.66667
+"1796","San Juan, Puerto Rico",42,4029,-66.16667,18.66667
+"1797","San Juan, Puerto Rico",43,5114,-66.16667,18.66667
+"1798","San Juan, Puerto Rico",44,88,-66.16667,18.66667
+"1799","San Juan, Puerto Rico",45,5,-66.16667,18.66667
+"1800","San Juan, Puerto Rico",47,33,-66.16667,18.66667
+"1801","San Juan, Puerto Rico",48,69,-66.16667,18.66667
+"1802","San Juan, Puerto Rico",49,612,-66.16667,18.66667
+"1803","San Juan, Puerto Rico",50,3170,-66.16667,18.66667
+"1804","San Juan, Puerto Rico",51,93,-66.16667,18.66667
+"1805","Savannah, Georgia",1,51450,-81.095382,32.084711
+"1806","Savannah, Georgia",2,27693,-81.095382,32.084711
+"1807","Savannah, Georgia",3,1641,-81.095382,32.084711
+"1808","Savannah, Georgia",4,44738,-81.095382,32.084711
+"1809","Savannah, Georgia",5,46998,-81.095382,32.084711
+"1810","Savannah, Georgia",6,42171,-81.095382,32.084711
+"1811","Savannah, Georgia",7,36352,-81.095382,32.084711
+"1812","Savannah, Georgia",8,60611,-81.095382,32.084711
+"1813","Savannah, Georgia",9,57331,-81.095382,32.084711
+"1814","Savannah, Georgia",10,37392,-81.095382,32.084711
+"1815","Savannah, Georgia",11,40572,-81.095382,32.084711
+"1816","Savannah, Georgia",12,36638,-81.095382,32.084711
+"1817","Savannah, Georgia",13,58402,-81.095382,32.084711
+"1818","Savannah, Georgia",14,43359,-81.095382,32.084711
+"1819","Savannah, Georgia",15,53319,-81.095382,32.084711
+"1820","Savannah, Georgia",16,40611,-81.095382,32.084711
+"1821","Savannah, Georgia",17,53312,-81.095382,32.084711
+"1822","Savannah, Georgia",18,39976,-81.095382,32.084711
+"1823","Savannah, Georgia",19,38865,-81.095382,32.084711
+"1824","Savannah, Georgia",20,47484,-81.095382,32.084711
+"1825","Savannah, Georgia",21,38305,-81.095382,32.084711
+"1826","Savannah, Georgia",22,48314,-81.095382,32.084711
+"1827","Savannah, Georgia",23,8578,-81.095382,32.084711
+"1828","Savannah, Georgia",24,86,-81.095382,32.084711
+"1829","Savannah, Georgia",25,446,-81.095382,32.084711
+"1830","Savannah, Georgia",26,192,-81.095382,32.084711
+"1831","Savannah, Georgia",27,715,-81.095382,32.084711
+"1832","Savannah, Georgia",28,13179,-81.095382,32.084711
+"1833","Savannah, Georgia",29,50091,-81.095382,32.084711
+"1834","Savannah, Georgia",30,41348,-81.095382,32.084711
+"1835","Savannah, Georgia",31,51702,-81.095382,32.084711
+"1836","Savannah, Georgia",32,41034,-81.095382,32.084711
+"1837","Savannah, Georgia",33,16662,-81.095382,32.084711
+"1838","Savannah, Georgia",34,28815,-81.095382,32.084711
+"1839","Savannah, Georgia",35,48758,-81.095382,32.084711
+"1840","Savannah, Georgia",36,34407,-81.095382,32.084711
+"1841","Savannah, Georgia",37,1497,-81.095382,32.084711
+"1842","Savannah, Georgia",38,50742,-81.095382,32.084711
+"1843","Savannah, Georgia",39,40677,-81.095382,32.084711
+"1844","Savannah, Georgia",40,7547,-81.095382,32.084711
+"1845","Savannah, Georgia",41,37554,-81.095382,32.084711
+"1846","Savannah, Georgia",42,56285,-81.095382,32.084711
+"1847","Savannah, Georgia",43,43174,-81.095382,32.084711
+"1848","Savannah, Georgia",44,3948,-81.095382,32.084711
+"1849","Savannah, Georgia",45,142,-81.095382,32.084711
+"1850","Savannah, Georgia",46,213,-81.095382,32.084711
+"1851","Savannah, Georgia",47,102,-81.095382,32.084711
+"1852","Savannah, Georgia",48,221,-81.095382,32.084711
+"1853","Savannah, Georgia",49,968,-81.095382,32.084711
+"1854","Savannah, Georgia",50,46330,-81.095382,32.084711
+"1855","Savannah, Georgia",51,7971,-81.095382,32.084711
+"1856","Seattle, Washington",1,11142,-122.359218,47.587711
+"1857","Seattle, Washington",2,15270,-122.359218,47.587711
+"1858","Seattle, Washington",3,980,-122.359218,47.587711
+"1859","Seattle, Washington",4,11071,-122.359218,47.587711
+"1860","Seattle, Washington",5,22392,-122.359218,47.587711
+"1861","Seattle, Washington",6,20708,-122.359218,47.587711
+"1862","Seattle, Washington",7,19501,-122.359218,47.587711
+"1863","Seattle, Washington",8,17387,-122.359218,47.587711
+"1864","Seattle, Washington",9,22079,-122.359218,47.587711
+"1865","Seattle, Washington",10,6619,-122.359218,47.587711
+"1866","Seattle, Washington",11,32021,-122.359218,47.587711
+"1867","Seattle, Washington",12,12347,-122.359218,47.587711
+"1868","Seattle, Washington",13,11257,-122.359218,47.587711
+"1869","Seattle, Washington",14,32201,-122.359218,47.587711
+"1870","Seattle, Washington",15,24096,-122.359218,47.587711
+"1871","Seattle, Washington",16,14655,-122.359218,47.587711
+"1872","Seattle, Washington",17,33078,-122.359218,47.587711
+"1873","Seattle, Washington",18,23407,-122.359218,47.587711
+"1874","Seattle, Washington",19,23513,-122.359218,47.587711
+"1875","Seattle, Washington",20,47158,-122.359218,47.587711
+"1876","Seattle, Washington",21,26767,-122.359218,47.587711
+"1877","Seattle, Washington",22,39428,-122.359218,47.587711
+"1878","Seattle, Washington",23,10050,-122.359218,47.587711
+"1879","Seattle, Washington",24,110,-122.359218,47.587711
+"1880","Seattle, Washington",25,197,-122.359218,47.587711
+"1881","Seattle, Washington",26,415,-122.359218,47.587711
+"1882","Seattle, Washington",27,1869,-122.359218,47.587711
+"1883","Seattle, Washington",28,13566,-122.359218,47.587711
+"1884","Seattle, Washington",29,33770,-122.359218,47.587711
+"1885","Seattle, Washington",30,32460,-122.359218,47.587711
+"1886","Seattle, Washington",31,31551,-122.359218,47.587711
+"1887","Seattle, Washington",32,30300,-122.359218,47.587711
+"1888","Seattle, Washington",33,10143,-122.359218,47.587711
+"1889","Seattle, Washington",34,14075,-122.359218,47.587711
+"1890","Seattle, Washington",35,46531,-122.359218,47.587711
+"1891","Seattle, Washington",36,17994,-122.359218,47.587711
+"1892","Seattle, Washington",37,1019,-122.359218,47.587711
+"1893","Seattle, Washington",38,23994,-122.359218,47.587711
+"1894","Seattle, Washington",39,33153,-122.359218,47.587711
+"1895","Seattle, Washington",40,12969,-122.359218,47.587711
+"1896","Seattle, Washington",41,34417,-122.359218,47.587711
+"1897","Seattle, Washington",42,24118,-122.359218,47.587711
+"1898","Seattle, Washington",43,25552,-122.359218,47.587711
+"1899","Seattle, Washington",44,11040,-122.359218,47.587711
+"1900","Seattle, Washington",45,4,-122.359218,47.587711
+"1901","Seattle, Washington",46,18,-122.359218,47.587711
+"1902","Seattle, Washington",47,76,-122.359218,47.587711
+"1903","Seattle, Washington",48,199,-122.359218,47.587711
+"1904","Seattle, Washington",49,790,-122.359218,47.587711
+"1905","Seattle, Washington",50,11573,-122.359218,47.587711
+"1906","Seattle, Washington",51,8825,-122.359218,47.587711
+"1907","Tacoma, Washington",1,51862,-122.4515,47.28966
+"1908","Tacoma, Washington",2,26490,-122.4515,47.28966
+"1909","Tacoma, Washington",3,3449,-122.4515,47.28966
+"1910","Tacoma, Washington",4,31601,-122.4515,47.28966
+"1911","Tacoma, Washington",5,41314,-122.4515,47.28966
+"1912","Tacoma, Washington",6,48980,-122.4515,47.28966
+"1913","Tacoma, Washington",7,67025,-122.4515,47.28966
+"1914","Tacoma, Washington",8,38743,-122.4515,47.28966
+"1915","Tacoma, Washington",9,34691,-122.4515,47.28966
+"1916","Tacoma, Washington",10,53156,-122.4515,47.28966
+"1917","Tacoma, Washington",11,47868,-122.4515,47.28966
+"1918","Tacoma, Washington",12,41486,-122.4515,47.28966
+"1919","Tacoma, Washington",13,49383,-122.4515,47.28966
+"1920","Tacoma, Washington",14,53613,-122.4515,47.28966
+"1921","Tacoma, Washington",15,47855,-122.4515,47.28966
+"1922","Tacoma, Washington",16,49144,-122.4515,47.28966
+"1923","Tacoma, Washington",17,52855,-122.4515,47.28966
+"1924","Tacoma, Washington",18,36200,-122.4515,47.28966
+"1925","Tacoma, Washington",19,37891,-122.4515,47.28966
+"1926","Tacoma, Washington",20,31324,-122.4515,47.28966
+"1927","Tacoma, Washington",21,25108,-122.4515,47.28966
+"1928","Tacoma, Washington",22,41191,-122.4515,47.28966
+"1929","Tacoma, Washington",23,7541,-122.4515,47.28966
+"1930","Tacoma, Washington",24,635,-122.4515,47.28966
+"1931","Tacoma, Washington",25,502,-122.4515,47.28966
+"1932","Tacoma, Washington",26,2188,-122.4515,47.28966
+"1933","Tacoma, Washington",27,488,-122.4515,47.28966
+"1934","Tacoma, Washington",28,22386,-122.4515,47.28966
+"1935","Tacoma, Washington",29,33784,-122.4515,47.28966
+"1936","Tacoma, Washington",30,39703,-122.4515,47.28966
+"1937","Tacoma, Washington",31,43625,-122.4515,47.28966
+"1938","Tacoma, Washington",32,37791,-122.4515,47.28966
+"1939","Tacoma, Washington",33,3752,-122.4515,47.28966
+"1940","Tacoma, Washington",34,8154,-122.4515,47.28966
+"1941","Tacoma, Washington",35,43576,-122.4515,47.28966
+"1942","Tacoma, Washington",36,26845,-122.4515,47.28966
+"1943","Tacoma, Washington",37,7310,-122.4515,47.28966
+"1944","Tacoma, Washington",38,37087,-122.4515,47.28966
+"1945","Tacoma, Washington",39,20532,-122.4515,47.28966
+"1946","Tacoma, Washington",40,8094,-122.4515,47.28966
+"1947","Tacoma, Washington",41,32802,-122.4515,47.28966
+"1948","Tacoma, Washington",42,45208,-122.4515,47.28966
+"1949","Tacoma, Washington",43,22463,-122.4515,47.28966
+"1950","Tacoma, Washington",44,170,-122.4515,47.28966
+"1951","Tacoma, Washington",45,5,-122.4515,47.28966
+"1952","Tacoma, Washington",46,67,-122.4515,47.28966
+"1953","Tacoma, Washington",47,173,-122.4515,47.28966
+"1954","Tacoma, Washington",48,249,-122.4515,47.28966
+"1955","Tacoma, Washington",49,2172,-122.4515,47.28966
+"1956","Tacoma, Washington",50,21449,-122.4515,47.28966
+"1957","Tacoma, Washington",51,15639,-122.4515,47.28966
+"1958","Tampa, Florida",1,617,-82.52235,27.78534
+"1959","Tampa, Florida",2,744,-82.52235,27.78534
+"1960","Tampa, Florida",3,65,-82.52235,27.78534
+"1961","Tampa, Florida",4,261,-82.52235,27.78534
+"1962","Tampa, Florida",5,1467,-82.52235,27.78534
+"1963","Tampa, Florida",6,1265,-82.52235,27.78534
+"1964","Tampa, Florida",7,918,-82.52235,27.78534
+"1965","Tampa, Florida",8,1758,-82.52235,27.78534
+"1966","Tampa, Florida",9,1711,-82.52235,27.78534
+"1967","Tampa, Florida",10,789,-82.52235,27.78534
+"1968","Tampa, Florida",11,790,-82.52235,27.78534
+"1969","Tampa, Florida",12,1211,-82.52235,27.78534
+"1970","Tampa, Florida",13,1339,-82.52235,27.78534
+"1971","Tampa, Florida",14,648,-82.52235,27.78534
+"1972","Tampa, Florida",15,908,-82.52235,27.78534
+"1973","Tampa, Florida",16,719,-82.52235,27.78534
+"1974","Tampa, Florida",17,1158,-82.52235,27.78534
+"1975","Tampa, Florida",18,751,-82.52235,27.78534
+"1976","Tampa, Florida",19,866,-82.52235,27.78534
+"1977","Tampa, Florida",20,889,-82.52235,27.78534
+"1978","Tampa, Florida",21,687,-82.52235,27.78534
+"1979","Tampa, Florida",22,718,-82.52235,27.78534
+"1980","Tampa, Florida",23,141,-82.52235,27.78534
+"1981","Tampa, Florida",25,20,-82.52235,27.78534
+"1982","Tampa, Florida",26,2,-82.52235,27.78534
+"1983","Tampa, Florida",27,117,-82.52235,27.78534
+"1984","Tampa, Florida",28,1087,-82.52235,27.78534
+"1985","Tampa, Florida",29,840,-82.52235,27.78534
+"1986","Tampa, Florida",30,692,-82.52235,27.78534
+"1987","Tampa, Florida",31,1008,-82.52235,27.78534
+"1988","Tampa, Florida",32,301,-82.52235,27.78534
+"1989","Tampa, Florida",33,16,-82.52235,27.78534
+"1990","Tampa, Florida",34,740,-82.52235,27.78534
+"1991","Tampa, Florida",35,1130,-82.52235,27.78534
+"1992","Tampa, Florida",36,1068,-82.52235,27.78534
+"1993","Tampa, Florida",37,162,-82.52235,27.78534
+"1994","Tampa, Florida",38,1455,-82.52235,27.78534
+"1995","Tampa, Florida",39,1367,-82.52235,27.78534
+"1996","Tampa, Florida",40,145,-82.52235,27.78534
+"1997","Tampa, Florida",41,311,-82.52235,27.78534
+"1998","Tampa, Florida",42,632,-82.52235,27.78534
+"1999","Tampa, Florida",43,1807,-82.52235,27.78534
+"2000","Tampa, Florida",44,5,-82.52235,27.78534
+"2001","Tampa, Florida",47,58,-82.52235,27.78534
+"2002","Tampa, Florida",48,11,-82.52235,27.78534
+"2003","Tampa, Florida",49,382,-82.52235,27.78534
+"2004","Tampa, Florida",50,245,-82.52235,27.78534
+"2005","Vancouver, Washington",1,45,-122.6,45.633333
+"2006","Vancouver, Washington",2,7,-122.6,45.633333
+"2007","Vancouver, Washington",4,5,-122.6,45.633333
+"2008","Vancouver, Washington",5,36,-122.6,45.633333
+"2009","Vancouver, Washington",6,63,-122.6,45.633333
+"2010","Vancouver, Washington",7,7,-122.6,45.633333
+"2011","Vancouver, Washington",8,101,-122.6,45.633333
+"2012","Vancouver, Washington",9,118,-122.6,45.633333
+"2013","Vancouver, Washington",10,9,-122.6,45.633333
+"2014","Vancouver, Washington",11,30,-122.6,45.633333
+"2015","Vancouver, Washington",12,201,-122.6,45.633333
+"2016","Vancouver, Washington",13,123,-122.6,45.633333
+"2017","Vancouver, Washington",14,15,-122.6,45.633333
+"2018","Vancouver, Washington",15,58,-122.6,45.633333
+"2019","Vancouver, Washington",16,124,-122.6,45.633333
+"2020","Vancouver, Washington",17,18,-122.6,45.633333
+"2021","Vancouver, Washington",18,41,-122.6,45.633333
+"2022","Vancouver, Washington",19,26,-122.6,45.633333
+"2023","Vancouver, Washington",20,207,-122.6,45.633333
+"2024","Vancouver, Washington",21,41,-122.6,45.633333
+"2025","Vancouver, Washington",22,91,-122.6,45.633333
+"2026","Vancouver, Washington",23,1,-122.6,45.633333
+"2027","Vancouver, Washington",28,3,-122.6,45.633333
+"2028","Vancouver, Washington",29,14,-122.6,45.633333
+"2029","Vancouver, Washington",30,18,-122.6,45.633333
+"2030","Vancouver, Washington",31,38,-122.6,45.633333
+"2031","Vancouver, Washington",32,26,-122.6,45.633333
+"2032","Vancouver, Washington",33,6,-122.6,45.633333
+"2033","Vancouver, Washington",34,5,-122.6,45.633333
+"2034","Vancouver, Washington",35,26,-122.6,45.633333
+"2035","Vancouver, Washington",36,52,-122.6,45.633333
+"2036","Vancouver, Washington",37,6,-122.6,45.633333
+"2037","Vancouver, Washington",38,5,-122.6,45.633333
+"2038","Vancouver, Washington",39,21,-122.6,45.633333
+"2039","Vancouver, Washington",41,96,-122.6,45.633333
+"2040","Vancouver, Washington",42,63,-122.6,45.633333
+"2041","Vancouver, Washington",43,4,-122.6,45.633333
+"2042","Vancouver, Washington",44,3,-122.6,45.633333
+"2043","Vancouver, Washington",49,1,-122.6,45.633333
+"2044","Vancouver, Washington",50,93,-122.6,45.633333
+"2045","Vancouver, Washington",51,5,-122.6,45.633333
+"2046","West Palm Beach, Florida",1,2499,-80.05267,26.76904
+"2047","West Palm Beach, Florida",2,1686,-80.05267,26.76904
+"2048","West Palm Beach, Florida",3,225,-80.05267,26.76904
+"2049","West Palm Beach, Florida",4,1258,-80.05267,26.76904
+"2050","West Palm Beach, Florida",5,2537,-80.05267,26.76904
+"2051","West Palm Beach, Florida",6,2027,-80.05267,26.76904
+"2052","West Palm Beach, Florida",7,2232,-80.05267,26.76904
+"2053","West Palm Beach, Florida",8,2517,-80.05267,26.76904
+"2054","West Palm Beach, Florida",9,1699,-80.05267,26.76904
+"2055","West Palm Beach, Florida",10,2068,-80.05267,26.76904
+"2056","West Palm Beach, Florida",11,2096,-80.05267,26.76904
+"2057","West Palm Beach, Florida",12,3279,-80.05267,26.76904
+"2058","West Palm Beach, Florida",13,1971,-80.05267,26.76904
+"2059","West Palm Beach, Florida",14,2489,-80.05267,26.76904
+"2060","West Palm Beach, Florida",15,2736,-80.05267,26.76904
+"2061","West Palm Beach, Florida",16,2275,-80.05267,26.76904
+"2062","West Palm Beach, Florida",17,2314,-80.05267,26.76904
+"2063","West Palm Beach, Florida",18,2491,-80.05267,26.76904
+"2064","West Palm Beach, Florida",19,2018,-80.05267,26.76904
+"2065","West Palm Beach, Florida",20,2333,-80.05267,26.76904
+"2066","West Palm Beach, Florida",21,2213,-80.05267,26.76904
+"2067","West Palm Beach, Florida",22,1804,-80.05267,26.76904
+"2068","West Palm Beach, Florida",23,669,-80.05267,26.76904
+"2069","West Palm Beach, Florida",24,3,-80.05267,26.76904
+"2070","West Palm Beach, Florida",25,4,-80.05267,26.76904
+"2071","West Palm Beach, Florida",26,23,-80.05267,26.76904
+"2072","West Palm Beach, Florida",27,6,-80.05267,26.76904
+"2073","West Palm Beach, Florida",28,670,-80.05267,26.76904
+"2074","West Palm Beach, Florida",29,2538,-80.05267,26.76904
+"2075","West Palm Beach, Florida",30,2096,-80.05267,26.76904
+"2076","West Palm Beach, Florida",31,2426,-80.05267,26.76904
+"2077","West Palm Beach, Florida",32,2195,-80.05267,26.76904
+"2078","West Palm Beach, Florida",33,126,-80.05267,26.76904
+"2079","West Palm Beach, Florida",34,527,-80.05267,26.76904
+"2080","West Palm Beach, Florida",35,2391,-80.05267,26.76904
+"2081","West Palm Beach, Florida",36,1362,-80.05267,26.76904
+"2082","West Palm Beach, Florida",37,42,-80.05267,26.76904
+"2083","West Palm Beach, Florida",38,1214,-80.05267,26.76904
+"2084","West Palm Beach, Florida",39,1442,-80.05267,26.76904
+"2085","West Palm Beach, Florida",40,71,-80.05267,26.76904
+"2086","West Palm Beach, Florida",41,2443,-80.05267,26.76904
+"2087","West Palm Beach, Florida",42,1622,-80.05267,26.76904
+"2088","West Palm Beach, Florida",43,1941,-80.05267,26.76904
+"2089","West Palm Beach, Florida",46,15,-80.05267,26.76904
+"2090","West Palm Beach, Florida",47,10,-80.05267,26.76904
+"2091","West Palm Beach, Florida",48,24,-80.05267,26.76904
+"2092","West Palm Beach, Florida",49,571,-80.05267,26.76904
+"2093","West Palm Beach, Florida",50,2611,-80.05267,26.76904
+"2094","Wilmington, Delaware",1,2188,-75.50697,39.71589
+"2095","Wilmington, Delaware",2,2320,-75.50697,39.71589
+"2096","Wilmington, Delaware",3,2,-75.50697,39.71589
+"2097","Wilmington, Delaware",4,960,-75.50697,39.71589
+"2098","Wilmington, Delaware",5,1338,-75.50697,39.71589
+"2099","Wilmington, Delaware",6,2730,-75.50697,39.71589
+"2100","Wilmington, Delaware",7,2176,-75.50697,39.71589
+"2101","Wilmington, Delaware",8,2766,-75.50697,39.71589
+"2102","Wilmington, Delaware",9,2150,-75.50697,39.71589
+"2103","Wilmington, Delaware",10,1797,-75.50697,39.71589
+"2104","Wilmington, Delaware",11,2447,-75.50697,39.71589
+"2105","Wilmington, Delaware",12,2718,-75.50697,39.71589
+"2106","Wilmington, Delaware",13,2506,-75.50697,39.71589
+"2107","Wilmington, Delaware",14,2220,-75.50697,39.71589
+"2108","Wilmington, Delaware",15,2503,-75.50697,39.71589
+"2109","Wilmington, Delaware",16,2261,-75.50697,39.71589
+"2110","Wilmington, Delaware",17,2164,-75.50697,39.71589
+"2111","Wilmington, Delaware",18,2252,-75.50697,39.71589
+"2112","Wilmington, Delaware",19,2315,-75.50697,39.71589
+"2113","Wilmington, Delaware",20,2349,-75.50697,39.71589
+"2114","Wilmington, Delaware",21,1103,-75.50697,39.71589
+"2115","Wilmington, Delaware",22,2272,-75.50697,39.71589
+"2116","Wilmington, Delaware",23,1863,-75.50697,39.71589
+"2117","Wilmington, Delaware",27,16,-75.50697,39.71589
+"2118","Wilmington, Delaware",28,2,-75.50697,39.71589
+"2119","Wilmington, Delaware",29,2088,-75.50697,39.71589
+"2120","Wilmington, Delaware",30,2101,-75.50697,39.71589
+"2121","Wilmington, Delaware",31,2094,-75.50697,39.71589
+"2122","Wilmington, Delaware",32,2082,-75.50697,39.71589
+"2123","Wilmington, Delaware",33,1787,-75.50697,39.71589
+"2124","Wilmington, Delaware",34,85,-75.50697,39.71589
+"2125","Wilmington, Delaware",35,3211,-75.50697,39.71589
+"2126","Wilmington, Delaware",36,1297,-75.50697,39.71589
+"2127","Wilmington, Delaware",37,7,-75.50697,39.71589
+"2128","Wilmington, Delaware",38,442,-75.50697,39.71589
+"2129","Wilmington, Delaware",39,2093,-75.50697,39.71589
+"2130","Wilmington, Delaware",40,1070,-75.50697,39.71589
+"2131","Wilmington, Delaware",41,1197,-75.50697,39.71589
+"2132","Wilmington, Delaware",42,2218,-75.50697,39.71589
+"2133","Wilmington, Delaware",43,2008,-75.50697,39.71589
+"2134","Wilmington, Delaware",44,971,-75.50697,39.71589
+"2135","Wilmington, Delaware",48,3,-75.50697,39.71589
+"2136","Wilmington, Delaware",49,1,-75.50697,39.71589
+"2137","Wilmington, Delaware",50,918,-75.50697,39.71589
+"2138","Wilmington, North Carolina",1,836,-77.953954,34.239278
+"2139","Wilmington, North Carolina",2,834,-77.953954,34.239278
+"2140","Wilmington, North Carolina",3,1,-77.953954,34.239278
+"2141","Wilmington, North Carolina",4,1264,-77.953954,34.239278
+"2142","Wilmington, North Carolina",5,934,-77.953954,34.239278
+"2143","Wilmington, North Carolina",6,1064,-77.953954,34.239278
+"2144","Wilmington, North Carolina",7,964,-77.953954,34.239278
+"2145","Wilmington, North Carolina",8,1051,-77.953954,34.239278
+"2146","Wilmington, North Carolina",9,1116,-77.953954,34.239278
+"2147","Wilmington, North Carolina",10,351,-77.953954,34.239278
+"2148","Wilmington, North Carolina",11,1401,-77.953954,34.239278
+"2149","Wilmington, North Carolina",12,1040,-77.953954,34.239278
+"2150","Wilmington, North Carolina",13,1063,-77.953954,34.239278
+"2151","Wilmington, North Carolina",14,845,-77.953954,34.239278
+"2152","Wilmington, North Carolina",15,1513,-77.953954,34.239278
+"2153","Wilmington, North Carolina",16,1300,-77.953954,34.239278
+"2154","Wilmington, North Carolina",17,1320,-77.953954,34.239278
+"2155","Wilmington, North Carolina",18,1132,-77.953954,34.239278
+"2156","Wilmington, North Carolina",19,1186,-77.953954,34.239278
+"2157","Wilmington, North Carolina",20,1463,-77.953954,34.239278
+"2158","Wilmington, North Carolina",21,886,-77.953954,34.239278
+"2159","Wilmington, North Carolina",22,1071,-77.953954,34.239278
+"2160","Wilmington, North Carolina",23,326,-77.953954,34.239278
+"2161","Wilmington, North Carolina",26,70,-77.953954,34.239278
+"2162","Wilmington, North Carolina",27,70,-77.953954,34.239278
+"2163","Wilmington, North Carolina",28,1171,-77.953954,34.239278
+"2164","Wilmington, North Carolina",29,1580,-77.953954,34.239278
+"2165","Wilmington, North Carolina",30,1792,-77.953954,34.239278
+"2166","Wilmington, North Carolina",31,1686,-77.953954,34.239278
+"2167","Wilmington, North Carolina",32,1984,-77.953954,34.239278
+"2168","Wilmington, North Carolina",33,48,-77.953954,34.239278
+"2169","Wilmington, North Carolina",34,1228,-77.953954,34.239278
+"2170","Wilmington, North Carolina",35,1687,-77.953954,34.239278
+"2171","Wilmington, North Carolina",36,1768,-77.953954,34.239278
+"2172","Wilmington, North Carolina",37,12,-77.953954,34.239278
+"2173","Wilmington, North Carolina",38,1263,-77.953954,34.239278
+"2174","Wilmington, North Carolina",39,1846,-77.953954,34.239278
+"2175","Wilmington, North Carolina",40,263,-77.953954,34.239278
+"2176","Wilmington, North Carolina",41,2187,-77.953954,34.239278
+"2177","Wilmington, North Carolina",42,2465,-77.953954,34.239278
+"2178","Wilmington, North Carolina",43,2253,-77.953954,34.239278
+"2179","Wilmington, North Carolina",44,1,-77.953954,34.239278
+"2180","Wilmington, North Carolina",48,12,-77.953954,34.239278
+"2181","Wilmington, North Carolina",49,21,-77.953954,34.239278
+"2182","Wilmington, North Carolina",50,2194,-77.953954,34.239278
+"2183","Wilmington, North Carolina",51,272,-77.953954,34.239278

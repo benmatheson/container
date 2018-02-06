@@ -1,0 +1,224 @@
+[
+  {
+    "uniqueForeignRevised": "Prince Rupert, BC,Canada",
+    "lon": -130.3208,
+    "lat": 54.315,
+    "geoAddress": "prince rupert, bc, canada"
+  },
+  {
+    "uniqueForeignRevised": "Vancouver, BC,Canada",
+    "lon": -123.1207,
+    "lat": 49.2827,
+    "geoAddress": "vancouver, bc, canada"
+  },
+  {
+    "uniqueForeignRevised": "Pusan,South Korea",
+    "lon": 129.0756,
+    "lat": 35.1796,
+    "geoAddress": "busan, south korea"
+  },
+  {
+    "uniqueForeignRevised": "Yura,Japan",
+    "lon": 135.1183,
+    "lat": 33.9592,
+    "geoAddress": "yura, hidaka district, wakayama prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Sendai,Japan",
+    "lon": 140.8694,
+    "lat": 38.2682,
+    "geoAddress": "sendai, miyagi prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Sao Paulo,Brazil",
+    "lon": -46.6333,
+    "lat": -23.5505,
+    "geoAddress": "são paulo, state of são paulo, brazil"
+  },
+  {
+    "uniqueForeignRevised": "Nanking,China ",
+    "lon": 118.7969,
+    "lat": 32.0603,
+    "geoAddress": "nanjing, jiangsu, china"
+  },
+  {
+    "uniqueForeignRevised": "Shanghai,China ",
+    "lon": 121.4737,
+    "lat": 31.2304,
+    "geoAddress": "shanghai, china"
+  },
+  {
+    "uniqueForeignRevised": "Yosu,South Korea",
+    "lon": 127.6622,
+    "lat": 34.7604,
+    "geoAddress": "yeosu-si, jeollanam-do, south korea"
+  },
+  {
+    "uniqueForeignRevised": "Luda,China ",
+    "lon": 121.6147,
+    "lat": 38.914,
+    "geoAddress": "dalian, liaoning, china"
+  },
+  {
+    "uniqueForeignRevised": "Shiogama,Japan",
+    "lon": 141.022,
+    "lat": 38.3144,
+    "geoAddress": "shiogama, miyagi prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Cheju,South Korea",
+    "lon": 126.4983,
+    "lat": 33.489,
+    "geoAddress": "jeju-do, south korea"
+  },
+  {
+    "uniqueForeignRevised": "Singapore,Singapore",
+    "lon": 103.8198,
+    "lat": 1.3521,
+    "geoAddress": "singapore"
+  },
+  {
+    "uniqueForeignRevised": "Kwangyang,South Korea",
+    "lon": 127.6959,
+    "lat": 34.9407,
+    "geoAddress": "gwangyang-si, jeollanam-do, south korea"
+  },
+  {
+    "uniqueForeignRevised": "Ulsan,South Korea",
+    "lon": 129.3114,
+    "lat": 35.5384,
+    "geoAddress": "ulsan, south korea"
+  },
+  {
+    "uniqueForeignRevised": "Puerto Mexico,Mexico",
+    "lon": -99.1332,
+    "lat": 19.4326,
+    "geoAddress": "mexico city, cdmx, mexico"
+  },
+  {
+    "uniqueForeignRevised": "Yokohama,Japan",
+    "lon": 139.638,
+    "lat": 35.4437,
+    "geoAddress": "yokohama, kanagawa prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Xingang,China",
+    "lon": 117.7428,
+    "lat": 38.9832,
+    "geoAddress": "binhai, tianjin, china"
+  },
+  {
+    "uniqueForeignRevised": "Wuhu,China ",
+    "lon": 118.4329,
+    "lat": 31.3529,
+    "geoAddress": "wuhu, anhui, china"
+  },
+  {
+    "uniqueForeignRevised": "Tanjung Pelepas,Malaysia",
+    "lon": 103.5724,
+    "lat": 1.3836,
+    "geoAddress": "lebuhraya tanjung pelepas, 81550 gelang patah, johor, malaysia"
+  },
+  {
+    "uniqueForeignRevised": "Calais,France",
+    "lon": 1.8587,
+    "lat": 50.9513,
+    "geoAddress": "calais, france"
+  },
+  {
+    "uniqueForeignRevised": "Villequier,France",
+    "lon": 0.6721,
+    "lat": 49.513,
+    "geoAddress": "76490 villequier, france"
+  },
+  {
+    "uniqueForeignRevised": "Dongguan,China ",
+    "lon": 113.7518,
+    "lat": 23.0207,
+    "geoAddress": "dongguan, guangdong, china"
+  },
+  {
+    "uniqueForeignRevised": "Chibako,Japan",
+    "lon": 140.1233,
+    "lat": 35.6051,
+    "geoAddress": "chiba prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Wakayama,Japan",
+    "lon": 135.1675,
+    "lat": 34.226,
+    "geoAddress": "wakayama prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Laem Chabang,Thailand",
+    "lon": 100.9158,
+    "lat": 13.1041,
+    "geoAddress": "laem chabang, bang lamung district, chon buri, thailand"
+  },
+  {
+    "uniqueForeignRevised": "Surabaya,Indonesia",
+    "lon": 112.7521,
+    "lat": -7.2575,
+    "geoAddress": "surabaya, surabaya city, east java, indonesia"
+  },
+  {
+    "uniqueForeignRevised": "Tiksi,Russia",
+    "lon": 128.8645,
+    "lat": 71.6375,
+    "geoAddress": "tiksi, sakha republic, russia, 678400"
+  },
+  {
+    "uniqueForeignRevised": "Qinhuangdao Gang,China ",
+    "lon": 119.5745,
+    "lat": 39.9422,
+    "geoAddress": "xi gang lu, haigang qu, qinhuangdao shi, hebei sheng, china, 066004"
+  },
+  {
+    "uniqueForeignRevised": "Masan,South Korea",
+    "lon": 128.5814,
+    "lat": 35.2135,
+    "geoAddress": "masan, south korea"
+  },
+  {
+    "uniqueForeignRevised": "Mizusima,Japan",
+    "lon": 136.9015,
+    "lat": 36.6387,
+    "geoAddress": "mizushima, oyabe, toyama prefecture 932-0102, japan"
+  },
+  {
+    "uniqueForeignRevised": "Balboa,Panama",
+    "lon": -79.5632,
+    "lat": 8.9614,
+    "geoAddress": "balboa, panama city, panama"
+  },
+  {
+    "uniqueForeignRevised": "White Rock, BC,Canada",
+    "lon": -122.803,
+    "lat": 49.0253,
+    "geoAddress": "white rock, bc, canada"
+  },
+  {
+    "uniqueForeignRevised": "Kawasaki,Japan",
+    "lon": 139.7024,
+    "lat": 35.5298,
+    "geoAddress": "kawasaki, kanagawa prefecture, japan"
+  },
+  {
+    "uniqueForeignRevised": "Mongstad,Norway",
+    "lon": 5.033,
+    "lat": 60.8113,
+    "geoAddress": "5954 mongstad, norway"
+  },
+  {
+    "uniqueForeignRevised": "Zhenjiang,China ",
+    "lon": 119.4258,
+    "lat": 32.1878,
+    "geoAddress": "zhenjiang, jiangsu, china"
+  },
+  {
+    "uniqueForeignRevised": "Okinawa Island,Japan",
+    "lon": 127.9454,
+    "lat": 26.5013,
+    "geoAddress": "okinawa island, ginoza, okinawa prefecture 904-1304, japan"
+  }
+] 
